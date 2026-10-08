@@ -1,0 +1,1391 @@
+support,itemsets,length
+0.555995,frozenset({'fresh fruits'}),1
+0.44436,frozenset({'fresh vegetables'}),1
+0.365415,frozenset({'packaged vegetables fruits'}),1
+0.31756,"frozenset({'fresh fruits', 'fresh vegetables'})",2
+0.26987,"frozenset({'packaged vegetables fruits', 'fresh fruits'})",2
+0.263675,frozenset({'yogurt'}),1
+0.243325,frozenset({'milk'}),1
+0.234555,"frozenset({'packaged vegetables fruits', 'fresh vegetables'})",2
+0.230995,frozenset({'packaged cheese'}),1
+0.193005,frozenset({'water seltzer sparkling water'}),1
+0.188225,"frozenset({'fresh fruits', 'yogurt'})",2
+0.18658,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'fresh fruits'})",3
+0.169435,frozenset({'chips pretzels'}),1
+0.168355,frozenset({'soy lactosefree'}),1
+0.16431,"frozenset({'fresh fruits', 'milk'})",2
+0.163865,frozenset({'bread'}),1
+0.1559,"frozenset({'fresh fruits', 'packaged cheese'})",2
+0.14466,"frozenset({'fresh vegetables', 'yogurt'})",2
+0.13649,frozenset({'eggs'}),1
+0.13585,"frozenset({'packaged cheese', 'fresh vegetables'})",2
+0.13404,frozenset({'refrigerated'}),1
+0.12791,"frozenset({'packaged vegetables fruits', 'yogurt'})",2
+0.124715,"frozenset({'fresh vegetables', 'milk'})",2
+0.12258,frozenset({'frozen produce'}),1
+0.11842,"frozenset({'fresh fruits', 'fresh vegetables', 'yogurt'})",3
+0.11748,"frozenset({'fresh fruits', 'soy lactosefree'})",2
+0.11497,frozenset({'crackers'}),1
+0.11461,"frozenset({'packaged vegetables fruits', 'packaged cheese'})",2
+0.11241,"frozenset({'fresh fruits', 'bread'})",2
+0.111045,"frozenset({'fresh fruits', 'water seltzer sparkling water'})",2
+0.11051,frozenset({'ice cream ice'}),1
+0.107425,"frozenset({'packaged vegetables fruits', 'milk'})",2
+0.1063,"frozenset({'chips pretzels', 'fresh fruits'})",2
+0.10579,"frozenset({'packaged vegetables fruits', 'yogurt', 'fresh fruits'})",3
+0.10457,"frozenset({'packaged cheese', 'fresh fruits', 'fresh vegetables'})",3
+0.10389,frozenset({'lunch meat'}),1
+0.09959,"frozenset({'fresh fruits', 'fresh vegetables', 'milk'})",3
+0.098205,frozenset({'fresh dips tapenades'}),1
+0.095705,"frozenset({'yogurt', 'milk'})",2
+0.095325,"frozenset({'eggs', 'fresh fruits'})",2
+0.09412,"frozenset({'fresh vegetables', 'soy lactosefree'})",2
+0.093005,frozenset({'fresh herbs'}),1
+0.09256,frozenset({'cereal'}),1
+0.091605,frozenset({'cream'}),1
+0.09159,"frozenset({'bread', 'fresh vegetables'})",2
+0.090715,"frozenset({'packaged vegetables fruits', 'packaged cheese', 'fresh fruits'})",3
+0.089395,frozenset({'juice nectars'}),1
+0.089235,"frozenset({'fresh fruits', 'frozen produce'})",2
+0.08852,"frozenset({'packaged cheese', 'yogurt'})",2
+0.087995,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'yogurt'})",3
+0.08745,"frozenset({'packaged vegetables fruits', 'milk', 'fresh fruits'})",3
+0.08731,frozenset({'soft drinks'}),1
+0.086545,frozenset({'energy granola bars'}),1
+0.086485,frozenset({'other creams cheeses'}),1
+0.08643,"frozenset({'fresh fruits', 'refrigerated'})",2
+0.08431,"frozenset({'eggs', 'fresh vegetables'})",2
+0.08419,frozenset({'hot dogs bacon sausage'}),1
+0.083365,frozenset({'soup broth bouillon'}),1
+0.083355,"frozenset({'water seltzer sparkling water', 'fresh vegetables'})",2
+0.082245,"frozenset({'chips pretzels', 'fresh vegetables'})",2
+0.08197,"frozenset({'packaged cheese', 'packaged vegetables fruits', 'fresh vegetables'})",3
+0.081385,"frozenset({'packaged vegetables fruits', 'soy lactosefree'})",2
+0.080225,frozenset({'nuts seeds dried fruit'}),1
+0.078655,"frozenset({'fresh herbs', 'fresh vegetables'})",2
+0.078185,frozenset({'spreads'}),1
+0.07817,"frozenset({'packaged cheese', 'milk'})",2
+0.07775,"frozenset({'fresh vegetables', 'frozen produce'})",2
+0.077055,"frozenset({'packaged vegetables fruits', 'bread'})",2
+0.076635,frozenset({'baking ingredients'}),1
+0.07624,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'yogurt', 'fresh fruits'})",4
+0.07562,"frozenset({'fresh fruits', 'fresh vegetables', 'soy lactosefree'})",3
+0.07548,"frozenset({'fresh fruits', 'crackers'})",2
+0.07486,"frozenset({'fresh fruits', 'yogurt', 'milk'})",3
+0.07433,frozenset({'butter'}),1
+0.07433,frozenset({'frozen meals'}),1
+0.073715,"frozenset({'packaged vegetables fruits', 'water seltzer sparkling water'})",2
+0.073545,"frozenset({'chips pretzels', 'packaged vegetables fruits'})",2
+0.073075,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'milk'})",3
+0.072365,"frozenset({'fresh fruits', 'fresh vegetables', 'bread'})",3
+0.07229,"frozenset({'fresh fruits', 'lunch meat'})",2
+0.07189,frozenset({'canned jarred vegetables'}),1
+0.070135,"frozenset({'fresh herbs', 'fresh fruits'})",2
+0.070055,frozenset({'dry pasta'}),1
+0.07002,"frozenset({'fresh fruits', 'packaged cheese', 'yogurt'})",3
+0.069705,frozenset({'canned meals beans'}),1
+0.069305,frozenset({'candy chocolate'}),1
+0.06904,"frozenset({'fresh fruits', 'fresh dips tapenades'})",2
+0.06865,"frozenset({'eggs', 'packaged vegetables fruits'})",2
+0.068325,"frozenset({'packaged cheese', 'packaged vegetables fruits', 'fresh vegetables', 'fresh fruits'})",4
+0.067765,frozenset({'breakfast bakery'}),1
+0.06735,frozenset({'oils vinegars'}),1
+0.066985,"frozenset({'packaged vegetables fruits', 'frozen produce'})",2
+0.06696,"frozenset({'packaged vegetables fruits', 'soy lactosefree', 'fresh fruits'})",3
+0.066145,"frozenset({'eggs', 'fresh fruits', 'fresh vegetables'})",3
+0.065825,"frozenset({'fresh vegetables', 'refrigerated'})",2
+0.064485,"frozenset({'fresh fruits', 'ice cream ice'})",2
+0.063685,"frozenset({'chips pretzels', 'fresh vegetables', 'fresh fruits'})",3
+0.063575,frozenset({'paper goods'}),1
+0.063235,"frozenset({'fresh fruits', 'water seltzer sparkling water', 'fresh vegetables'})",3
+0.06266,frozenset({'pasta sauce'}),1
+0.062535,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'milk', 'fresh fruits'})",4
+0.06243,"frozenset({'packaged vegetables fruits', 'bread', 'fresh fruits'})",3
+0.06227,frozenset({'packaged produce'}),1
+0.06217,"frozenset({'fresh fruits', 'fresh vegetables', 'frozen produce'})",3
+0.06184,"frozenset({'bread', 'yogurt'})",2
+0.061815,"frozenset({'fresh herbs', 'fresh fruits', 'fresh vegetables'})",3
+0.061165,frozenset({'frozen breakfast'}),1
+0.060095,"frozenset({'fresh vegetables', 'lunch meat'})",2
+0.059885,"frozenset({'fresh fruits', 'packaged cheese', 'milk'})",3
+0.059725,frozenset({'cookies cakes'}),1
+0.059705,"frozenset({'bread', 'milk'})",2
+0.05969,"frozenset({'bread', 'packaged cheese'})",2
+0.05962,"frozenset({'cereal', 'fresh fruits'})",2
+0.059465,frozenset({'condiments'}),1
+0.05945,"frozenset({'fresh fruits', 'energy granola bars'})",2
+0.058705,"frozenset({'packaged vegetables fruits', 'refrigerated'})",2
+0.058195,"frozenset({'yogurt', 'soy lactosefree'})",2
+0.057955,"frozenset({'fresh dips tapenades', 'fresh vegetables'})",2
+0.057695,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'soy lactosefree'})",3
+0.057595,"frozenset({'chips pretzels', 'fresh fruits', 'packaged vegetables fruits'})",3
+0.057335,"frozenset({'crackers', 'fresh vegetables'})",2
+0.057195,"frozenset({'packaged cheese', 'fresh vegetables', 'yogurt'})",3
+0.05701,frozenset({'tea'}),1
+0.05701,"frozenset({'cream', 'fresh fruits'})",2
+0.05698,"frozenset({'chips pretzels', 'yogurt'})",2
+0.05663,"frozenset({'fresh fruits', 'other creams cheeses'})",2
+0.05655,"frozenset({'packaged vegetables fruits', 'water seltzer sparkling water', 'fresh fruits'})",3
+0.05651,"frozenset({'fresh vegetables', 'yogurt', 'milk'})",3
+0.056455,frozenset({'tortillas flat bread'}),1
+0.056405,"frozenset({'chips pretzels', 'packaged cheese'})",2
+0.056185,"frozenset({'water seltzer sparkling water', 'yogurt'})",2
+0.05565,frozenset({'coffee'}),1
+0.0556,"frozenset({'juice nectars', 'fresh fruits'})",2
+0.05538,"frozenset({'soup broth bouillon', 'fresh vegetables'})",2
+0.055055,"frozenset({'canned jarred vegetables', 'fresh vegetables'})",2
+0.055045,"frozenset({'eggs', 'packaged vegetables fruits', 'fresh fruits'})",3
+0.05475,"frozenset({'fresh fruits', 'nuts seeds dried fruit'})",2
+0.054425,"frozenset({'fresh fruits', 'hot dogs bacon sausage'})",2
+0.054415,"frozenset({'packaged vegetables fruits', 'frozen produce', 'fresh fruits'})",3
+0.05388,"frozenset({'soup broth bouillon', 'fresh fruits'})",2
+0.053835,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'bread'})",3
+0.053785,"frozenset({'packaged vegetables fruits', 'fresh dips tapenades'})",2
+0.05356,"frozenset({'fresh fruits', 'spreads'})",2
+0.053225,"frozenset({'packaged vegetables fruits', 'lunch meat'})",2
+0.05265,"frozenset({'packaged vegetables fruits', 'crackers'})",2
+0.052535,"frozenset({'fresh herbs', 'packaged vegetables fruits'})",2
+0.052165,frozenset({'spices seasonings'}),1
+0.052105,"frozenset({'fresh vegetables', 'other creams cheeses'})",2
+0.051995,frozenset({'instant foods'}),1
+0.051995,"frozenset({'ice cream ice', 'fresh vegetables'})",2
+0.051915,"frozenset({'packaged vegetables fruits', 'packaged cheese', 'yogurt'})",3
+0.051875,frozenset({'frozen appetizers sides'}),1
+0.051445,"frozenset({'fresh fruits', 'fresh vegetables', 'refrigerated'})",3
+0.051295,"frozenset({'packaged vegetables fruits', 'yogurt', 'milk'})",3
+0.050675,"frozenset({'eggs', 'packaged vegetables fruits', 'fresh vegetables'})",3
+0.050435,"frozenset({'fresh vegetables', 'canned meals beans'})",2
+0.049905,"frozenset({'eggs', 'yogurt'})",2
+0.04989,"frozenset({'fresh fruits', 'canned meals beans'})",2
+0.0496,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'soy lactosefree', 'fresh fruits'})",4
+0.04946,"frozenset({'fresh vegetables', 'hot dogs bacon sausage'})",2
+0.049305,"frozenset({'packaged cheese', 'fresh vegetables', 'milk'})",3
+0.049105,"frozenset({'packaged cheese', 'fresh fruits', 'fresh vegetables', 'yogurt'})",4
+0.04895,"frozenset({'fresh fruits', 'yogurt', 'bread'})",3
+0.04892,"frozenset({'fresh fruits', 'butter'})",2
+0.048915,"frozenset({'chips pretzels', 'milk'})",2
+0.048895,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'frozen produce'})",3
+0.04888,"frozenset({'canned jarred vegetables', 'fresh fruits'})",2
+0.048835,"frozenset({'fresh fruits', 'fresh vegetables', 'yogurt', 'milk'})",4
+0.048255,"frozenset({'water seltzer sparkling water', 'packaged cheese'})",2
+0.048105,"frozenset({'chips pretzels', 'fresh vegetables', 'packaged vegetables fruits'})",3
+0.048095,"frozenset({'dry pasta', 'fresh fruits'})",2
+0.04787,"frozenset({'fresh fruits', 'fresh vegetables', 'lunch meat'})",3
+0.047795,"frozenset({'eggs', 'milk'})",2
+0.047305,"frozenset({'fresh fruits', 'baking ingredients'})",2
+0.047235,"frozenset({'dry pasta', 'fresh vegetables'})",2
+0.047175,"frozenset({'refrigerated', 'yogurt'})",2
+0.047105,"frozenset({'packaged vegetables fruits', 'water seltzer sparkling water', 'fresh vegetables'})",3
+0.04698,"frozenset({'fresh herbs', 'packaged vegetables fruits', 'fresh vegetables'})",3
+0.046625,"frozenset({'fresh fruits', 'fresh dips tapenades', 'fresh vegetables'})",3
+0.04661,"frozenset({'water seltzer sparkling water', 'milk'})",2
+0.046595,"frozenset({'packaged vegetables fruits', 'refrigerated', 'fresh fruits'})",3
+0.04641,frozenset({'popcorn jerky'}),1
+0.046265,"frozenset({'packaged cheese', 'soy lactosefree'})",2
+0.046085,frozenset({'fruit vegetable snacks'}),1
+0.046075,"frozenset({'fresh fruits', 'yogurt', 'soy lactosefree'})",3
+0.04591,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'bread', 'fresh fruits'})",4
+0.045875,"frozenset({'fresh fruits', 'crackers', 'fresh vegetables'})",3
+0.04568,"frozenset({'fresh fruits', 'breakfast bakery'})",2
+0.045435,"frozenset({'eggs', 'packaged cheese'})",2
+0.045355,frozenset({'baby food formula'}),1
+0.045295,"frozenset({'yogurt', 'frozen produce'})",2
+0.04521,"frozenset({'bread', 'milk', 'fresh fruits'})",3
+0.045205,"frozenset({'packaged cheese', 'lunch meat'})",2
+0.045025,frozenset({'hot cereal pancake mixes'}),1
+0.04483,"frozenset({'cream', 'fresh vegetables'})",2
+0.044825,"frozenset({'packaged vegetables fruits', 'packaged cheese', 'yogurt', 'fresh fruits'})",4
+0.044665,"frozenset({'fresh fruits', 'packaged cheese', 'bread'})",3
+0.04458,"frozenset({'fresh vegetables', 'butter'})",2
+0.044575,"frozenset({'packaged vegetables fruits', 'yogurt', 'milk', 'fresh fruits'})",4
+0.04409,"frozenset({'fresh fruits', 'frozen meals'})",2
+0.044025,"frozenset({'chips pretzels', 'yogurt', 'fresh fruits'})",3
+0.043875,"frozenset({'packaged cheese', 'crackers'})",2
+0.04383,"frozenset({'packaged vegetables fruits', 'packaged cheese', 'milk'})",3
+0.04379,"frozenset({'baking ingredients', 'fresh vegetables'})",2
+0.043735,"frozenset({'packaged vegetables fruits', 'ice cream ice'})",2
+0.04349,"frozenset({'fresh herbs', 'packaged vegetables fruits', 'fresh fruits'})",3
+0.04333,frozenset({'asian foods'}),1
+0.043325,"frozenset({'cereal', 'fresh vegetables'})",2
+0.043245,"frozenset({'packaged vegetables fruits', 'fresh dips tapenades', 'fresh fruits'})",3
+0.043065,frozenset({'frozen pizza'}),1
+0.04304,"frozenset({'crackers', 'yogurt'})",2
+0.043,"frozenset({'packaged vegetables fruits', 'lunch meat', 'fresh fruits'})",3
+0.042885,"frozenset({'fresh fruits', 'oils vinegars'})",2
+0.04284,"frozenset({'fresh fruits', 'pasta sauce'})",2
+0.042775,"frozenset({'juice nectars', 'fresh vegetables'})",2
+0.04261,"frozenset({'fresh vegetables', 'oils vinegars'})",2
+0.042555,"frozenset({'eggs', 'packaged vegetables fruits', 'fresh vegetables', 'fresh fruits'})",4
+0.042385,"frozenset({'packaged vegetables fruits', 'crackers', 'fresh fruits'})",3
+0.042035,"frozenset({'fresh fruits', 'frozen breakfast'})",2
+0.041895,"frozenset({'fresh fruits', 'water seltzer sparkling water', 'yogurt'})",3
+0.041775,"frozenset({'nuts seeds dried fruit', 'fresh vegetables'})",2
+0.041475,"frozenset({'packaged cheese', 'fresh fruits', 'fresh vegetables', 'milk'})",4
+0.041445,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'frozen produce', 'fresh fruits'})",4
+0.04122,"frozenset({'soy lactosefree', 'milk'})",2
+0.041055,"frozenset({'chips pretzels', 'water seltzer sparkling water'})",2
+0.041045,"frozenset({'soup broth bouillon', 'packaged vegetables fruits'})",2
+0.041005,"frozenset({'fresh vegetables', 'pasta sauce'})",2
+0.040955,"frozenset({'canned jarred vegetables', 'fresh fruits', 'fresh vegetables'})",3
+0.04094,"frozenset({'soup broth bouillon', 'fresh fruits', 'fresh vegetables'})",3
+0.040795,"frozenset({'fresh vegetables', 'spreads'})",2
+0.04064,"frozenset({'energy granola bars', 'fresh vegetables'})",2
+0.040565,"frozenset({'chips pretzels', 'packaged cheese', 'fresh fruits'})",3
+0.040325,"frozenset({'chips pretzels', 'fresh vegetables', 'fresh fruits', 'packaged vegetables fruits'})",4
+0.040315,"frozenset({'packaged vegetables fruits', 'hot dogs bacon sausage'})",2
+0.04028,"frozenset({'refrigerated', 'milk'})",2
+0.040265,"frozenset({'packaged vegetables fruits', 'other creams cheeses'})",2
+0.040185,frozenset({'grains rice dried goods'}),1
+0.040185,"frozenset({'chips pretzels', 'bread'})",2
+0.04,"frozenset({'eggs', 'fresh fruits', 'yogurt'})",3
+0.039945,"frozenset({'packaged produce', 'fresh fruits'})",2
+0.03982,"frozenset({'candy chocolate', 'fresh fruits'})",2
+0.03975,"frozenset({'cereal', 'packaged vegetables fruits'})",2
+0.03967,"frozenset({'fresh fruits', 'fresh vegetables', 'canned meals beans'})",3
+0.03966,"frozenset({'fresh herbs', 'packaged vegetables fruits', 'fresh vegetables', 'fresh fruits'})",4
+0.039605,"frozenset({'yogurt', 'lunch meat'})",2
+0.039585,"frozenset({'fresh fruits', 'soft drinks'})",2
+0.0395,"frozenset({'packaged vegetables fruits', 'energy granola bars'})",2
+0.039205,"frozenset({'fresh fruits', 'tortillas flat bread'})",2
+0.039015,"frozenset({'fresh fruits', 'fresh vegetables', 'other creams cheeses'})",3
+0.03898,frozenset({'poultry counter'}),1
+0.03885,"frozenset({'packaged cheese', 'frozen produce'})",2
+0.0387,"frozenset({'ice cream ice', 'fresh fruits', 'fresh vegetables'})",3
+0.038645,"frozenset({'packaged vegetables fruits', 'water seltzer sparkling water', 'fresh vegetables', 'fresh fruits'})",4
+0.038635,"frozenset({'packaged cheese', 'packaged vegetables fruits', 'fresh vegetables', 'yogurt'})",4
+0.03856,"frozenset({'bread', 'fresh vegetables', 'yogurt'})",3
+0.03847,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'refrigerated'})",3
+0.038465,"frozenset({'packaged cheese', 'yogurt', 'milk'})",3
+0.038315,"frozenset({'packaged vegetables fruits', 'nuts seeds dried fruit'})",2
+0.038095,"frozenset({'packaged vegetables fruits', 'fresh dips tapenades', 'fresh vegetables'})",3
+0.03788,"frozenset({'packaged cheese', 'refrigerated'})",2
+0.037835,"frozenset({'canned jarred vegetables', 'packaged vegetables fruits'})",2
+0.03774,"frozenset({'packaged cheese', 'bread', 'fresh vegetables'})",3
+0.03767,"frozenset({'packaged vegetables fruits', 'canned meals beans'})",2
+0.0376,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'lunch meat'})",3
+0.0375,"frozenset({'fresh dips tapenades', 'yogurt'})",2
+0.037425,"frozenset({'juice nectars', 'packaged vegetables fruits'})",2
+0.03738,"frozenset({'packaged vegetables fruits', 'packaged cheese', 'milk', 'fresh fruits'})",4
+0.03726,"frozenset({'cream', 'packaged vegetables fruits'})",2
+0.037215,"frozenset({'fresh fruits', 'fresh vegetables', 'hot dogs bacon sausage'})",3
+0.037075,"frozenset({'water seltzer sparkling water', 'soy lactosefree'})",2
+0.0369,"frozenset({'fresh fruits', 'yogurt', 'frozen produce'})",3
+0.03683,"frozenset({'condiments', 'fresh fruits'})",2
+0.036675,"frozenset({'cereal', 'yogurt'})",2
+0.03666,"frozenset({'spices seasonings', 'fresh vegetables'})",2
+0.036525,"frozenset({'tortillas flat bread', 'fresh vegetables'})",2
+0.03651,"frozenset({'eggs', 'bread'})",2
+0.036475,"frozenset({'eggs', 'fresh fruits', 'milk'})",3
+0.036465,"frozenset({'packaged vegetables fruits', 'spreads'})",2
+0.036455,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'yogurt', 'milk'})",4
+0.03644,"frozenset({'dry pasta', 'packaged vegetables fruits'})",2
+0.0364,"frozenset({'packaged cheese', 'other creams cheeses'})",2
+0.03639,"frozenset({'fresh fruits', 'packaged cheese', 'soy lactosefree'})",3
+0.03629,"frozenset({'condiments', 'fresh vegetables'})",2
+0.03621,frozenset({'packaged poultry'}),1
+0.036175,"frozenset({'crackers', 'milk'})",2
+0.036115,"frozenset({'dry pasta', 'fresh vegetables', 'fresh fruits'})",3
+0.036035,"frozenset({'ice cream ice', 'yogurt'})",2
+0.03603,"frozenset({'fresh fruits', 'refrigerated', 'yogurt'})",3
+0.036,"frozenset({'chips pretzels', 'milk', 'fresh fruits'})",3
+0.03592,"frozenset({'cereal', 'milk'})",2
+0.03576,"frozenset({'lunch meat', 'milk'})",2
+0.03566,"frozenset({'frozen produce', 'milk'})",2
+0.035635,"frozenset({'fresh vegetables', 'yogurt', 'soy lactosefree'})",3
+0.03563,"frozenset({'chips pretzels', 'crackers'})",2
+0.035565,"frozenset({'bread', 'soy lactosefree'})",2
+0.03535,"frozenset({'bread', 'fresh vegetables', 'milk'})",3
+0.035225,"frozenset({'packaged vegetables fruits', 'crackers', 'fresh vegetables'})",3
+0.0352,"frozenset({'chips pretzels', 'fresh dips tapenades'})",2
+0.03517,"frozenset({'chips pretzels', 'soy lactosefree'})",2
+0.034865,"frozenset({'cereal', 'fresh vegetables', 'fresh fruits'})",3
+0.034755,"frozenset({'packaged vegetables fruits', 'yogurt', 'bread'})",3
+0.034625,"frozenset({'fresh vegetables', 'frozen meals'})",2
+0.03461,"frozenset({'energy granola bars', 'yogurt'})",2
+0.03461,"frozenset({'cookies cakes', 'fresh fruits'})",2
+0.034565,"frozenset({'fresh fruits', 'water seltzer sparkling water', 'packaged cheese'})",3
+0.034565,"frozenset({'packaged cheese', 'fresh vegetables', 'packaged vegetables fruits', 'yogurt', 'fresh fruits'})",5
+0.03446,"frozenset({'eggs', 'fresh fruits', 'packaged cheese'})",3
+0.03437,"frozenset({'fresh dips tapenades', 'packaged cheese'})",2
+0.03435,"frozenset({'fresh fruits', 'nuts seeds dried fruit', 'fresh vegetables'})",3
+0.03399,"frozenset({'cream', 'fresh fruits', 'fresh vegetables'})",3
+0.033965,"frozenset({'fresh fruits', 'fresh vegetables', 'butter'})",3
+0.033915,"frozenset({'cream', 'milk'})",2
+0.033845,"frozenset({'fresh fruits', 'energy granola bars', 'fresh vegetables'})",3
+0.03384,"frozenset({'instant foods', 'fresh fruits'})",2
+0.03381,"frozenset({'fresh fruits', 'baby food formula'})",2
+0.03373,"frozenset({'packaged vegetables fruits', 'butter'})",2
+0.03372,"frozenset({'fresh fruits', 'tea'})",2
+0.0337,"frozenset({'fresh fruits', 'water seltzer sparkling water', 'milk'})",3
+0.033565,"frozenset({'bread', 'lunch meat'})",2
+0.03354,"frozenset({'bread', 'water seltzer sparkling water'})",2
+0.033535,"frozenset({'packaged cheese', 'chips pretzels', 'fresh vegetables'})",3
+0.033515,"frozenset({'fresh fruits', 'packaged cheese', 'lunch meat'})",3
+0.03347,"frozenset({'eggs', 'fresh vegetables', 'yogurt'})",3
+0.033385,"frozenset({'fresh fruits', 'crackers', 'yogurt'})",3
+0.03337,"frozenset({'fresh fruits', 'yogurt', 'fresh vegetables', 'bread'})",4
+0.03328,"frozenset({'packaged vegetables fruits', 'packaged cheese', 'bread'})",3
+0.03322,"frozenset({'spices seasonings', 'fresh fruits'})",2
+0.03322,"frozenset({'breakfast bakery', 'fresh vegetables'})",2
+0.033125,"frozenset({'packaged vegetables fruits', 'ice cream ice', 'fresh fruits'})",3
+0.033055,"frozenset({'juice nectars', 'fresh fruits', 'fresh vegetables'})",3
+0.033045,"frozenset({'ice cream ice', 'packaged cheese'})",2
+0.033035,"frozenset({'fresh fruits', 'frozen appetizers sides'})",2
+0.032945,"frozenset({'fresh fruits', 'energy granola bars', 'packaged vegetables fruits'})",3
+0.032885,"frozenset({'fresh fruits', 'fresh vegetables', 'spreads'})",3
+0.032885,"frozenset({'chips pretzels', 'fresh vegetables', 'yogurt'})",3
+0.032885,"frozenset({'frozen produce', 'soy lactosefree'})",2
+0.03286,frozenset({'tofu meat alternatives'}),1
+0.032845,"frozenset({'fresh vegetables', 'packaged vegetables fruits', 'yogurt', 'milk', 'fresh fruits'})",5
+0.032645,"frozenset({'packaged vegetables fruits', 'baking ingredients'})",2
+0.032595,"frozenset({'packaged vegetables fruits', 'pasta sauce'})",2
+0.032535,"frozenset({'packaged vegetables fruits', 'yogurt', 'soy lactosefree'})",3
+0.03247,"frozenset({'fresh fruits', 'fresh vegetables', 'baking ingredients'})",3
+0.03246,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'refrigerated', 'fresh fruits'})",4
+0.032285,"frozenset({'fresh vegetables', 'frozen breakfast'})",2
+0.03228,"frozenset({'fresh fruits', 'packaged cheese', 'yogurt', 'milk'})",4
+0.032265,"frozenset({'packaged vegetables fruits', 'fresh dips tapenades', 'fresh vegetables', 'fresh fruits'})",4
+0.03226,"frozenset({'packaged cheese', 'fresh fruits', 'crackers'})",3
+0.03225,"frozenset({'water seltzer sparkling water', 'refrigerated'})",2
+0.032215,"frozenset({'packaged cheese', 'packaged vegetables fruits', 'fresh vegetables', 'milk'})",4
+0.032205,frozenset({'preserved dips spreads'}),1
+0.032155,"frozenset({'yogurt', 'other creams cheeses'})",2
+0.032145,"frozenset({'chips pretzels', 'refrigerated'})",2
+0.03214,"frozenset({'fresh fruits', 'yogurt', 'lunch meat'})",3
+0.0321,frozenset({'buns rolls'}),1
+0.03209,"frozenset({'paper goods', 'fresh fruits'})",2
+0.032055,"frozenset({'soup broth bouillon', 'packaged vegetables fruits', 'fresh vegetables'})",3
+0.03194,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'lunch meat', 'fresh fruits'})",4
+0.031925,"frozenset({'canned jarred vegetables', 'packaged vegetables fruits', 'fresh vegetables'})",3
+0.031925,"frozenset({'packaged vegetables fruits', 'frozen meals'})",2
+0.031855,"frozenset({'fresh fruits', 'coffee'})",2
+0.03178,"frozenset({'cereal', 'fresh fruits', 'packaged vegetables fruits'})",3
+0.03174,"frozenset({'hot cereal pancake mixes', 'fresh fruits'})",2
+0.03168,"frozenset({'packaged vegetables fruits', 'oils vinegars'})",2
+0.03163,frozenset({'pickled goods olives'}),1
+0.0316,"frozenset({'fresh fruits', 'fresh vegetables', 'oils vinegars'})",3
+0.031575,"frozenset({'packaged vegetables fruits', 'nuts seeds dried fruit', 'fresh fruits'})",3
+0.031465,"frozenset({'chips pretzels', 'yogurt', 'packaged vegetables fruits'})",3
+0.03146,"frozenset({'fruit vegetable snacks', 'fresh fruits'})",2
+0.031455,"frozenset({'packaged vegetables fruits', 'hot dogs bacon sausage', 'fresh fruits'})",3
+0.03144,"frozenset({'soy lactosefree', 'fresh fruits', 'milk'})",3
+0.031435,"frozenset({'packaged vegetables fruits', 'other creams cheeses', 'fresh fruits'})",3
+0.03143,"frozenset({'fresh fruits', 'fresh vegetables', 'pasta sauce'})",3
+0.031405,"frozenset({'soup broth bouillon', 'packaged vegetables fruits', 'fresh fruits'})",3
+0.03133,"frozenset({'fresh vegetables', 'yogurt', 'frozen produce'})",3
+0.031295,"frozenset({'bread', 'milk', 'packaged vegetables fruits'})",3
+0.03128,"frozenset({'packaged cheese', 'hot dogs bacon sausage'})",2
+0.031275,"frozenset({'packaged cheese', 'fresh fruits', 'fresh vegetables', 'bread'})",4
+0.03116,"frozenset({'eggs', 'packaged cheese', 'fresh vegetables'})",3
+0.03103,"frozenset({'cream', 'yogurt'})",2
+0.030985,"frozenset({'cereal', 'packaged cheese'})",2
+0.03096,"frozenset({'ice cream ice', 'milk'})",2
+0.030955,"frozenset({'other creams cheeses', 'milk'})",2
+0.03091,"frozenset({'fresh fruits', 'fresh vegetables', 'yogurt', 'soy lactosefree'})",4
+0.030715,"frozenset({'fresh fruits', 'packaged cheese', 'frozen produce'})",3
+0.030665,"frozenset({'chips pretzels', 'packaged cheese', 'packaged vegetables fruits'})",3
+0.03066,"frozenset({'eggs', 'fresh vegetables', 'milk'})",3
+0.03056,"frozenset({'packaged vegetables fruits', 'canned meals beans', 'fresh fruits'})",3
+0.030555,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'canned meals beans'})",3
+0.030395,"frozenset({'water seltzer sparkling water', 'fresh vegetables', 'yogurt'})",3
+0.03035,"frozenset({'fresh fruits', 'fresh dips tapenades', 'yogurt'})",3
+0.03035,"frozenset({'fresh vegetables', 'packaged vegetables fruits', 'crackers', 'fresh fruits'})",4
+0.030345,"frozenset({'packaged cheese', 'fresh vegetables', 'soy lactosefree'})",3
+0.03029,"frozenset({'fresh herbs', 'packaged cheese'})",2
+0.030265,"frozenset({'packaged vegetables fruits', 'yogurt', 'bread', 'fresh fruits'})",4
+0.030175,"frozenset({'refrigerated', 'soy lactosefree'})",2
+0.03017,"frozenset({'eggs', 'soy lactosefree'})",2
+0.03006,"frozenset({'juice nectars', 'yogurt'})",2
+0.02987,"frozenset({'packaged vegetables fruits', 'spreads', 'fresh fruits'})",3
+0.029795,"frozenset({'packaged vegetables fruits', 'breakfast bakery'})",2
+0.029765,"frozenset({'bread', 'fresh vegetables', 'milk', 'fresh fruits'})",4
+0.02974,"frozenset({'canned jarred vegetables', 'packaged vegetables fruits', 'fresh fruits'})",3
+0.029725,"frozenset({'bread', 'crackers'})",2
+0.02969,"frozenset({'dry pasta', 'packaged cheese'})",2
+0.029505,"frozenset({'juice nectars', 'packaged vegetables fruits', 'fresh fruits'})",3
+0.02948,"frozenset({'fresh herbs', 'yogurt'})",2
+0.02947,"frozenset({'fresh fruits', 'refrigerated', 'milk'})",3
+0.029415,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'other creams cheeses'})",3
+0.0294,"frozenset({'cream', 'packaged cheese'})",2
+0.0293,"frozenset({'packaged vegetables fruits', 'frozen breakfast'})",2
+0.02929,"frozenset({'fresh vegetables', 'poultry counter'})",2
+0.029215,"frozenset({'chips pretzels', 'bread', 'fresh fruits'})",3
+0.0292,"frozenset({'grains rice dried goods', 'fresh vegetables'})",2
+0.02916,"frozenset({'cream', 'packaged vegetables fruits', 'fresh fruits'})",3
+0.02916,"frozenset({'eggs', 'packaged vegetables fruits', 'yogurt'})",3
+0.02905,"frozenset({'dry pasta', 'fresh fruits', 'packaged vegetables fruits'})",3
+0.029015,"frozenset({'yogurt', 'spreads'})",2
+0.02899,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'hot dogs bacon sausage'})",3
+0.02888,"frozenset({'bread', 'refrigerated'})",2
+0.028785,"frozenset({'packaged vegetables fruits', 'water seltzer sparkling water', 'yogurt'})",3
+0.028715,"frozenset({'packaged vegetables fruits', 'tortillas flat bread'})",2
+0.028705,"frozenset({'eggs', 'fresh fruits', 'fresh vegetables', 'yogurt'})",4
+0.028695,"frozenset({'yogurt', 'hot dogs bacon sausage'})",2
+0.02869,"frozenset({'fresh fruits', 'tortillas flat bread', 'fresh vegetables'})",3
+0.028615,"frozenset({'asian foods', 'fresh vegetables'})",2
+0.02861,"frozenset({'ice cream ice', 'packaged vegetables fruits', 'fresh vegetables'})",3
+0.028575,"frozenset({'fresh dips tapenades', 'milk'})",2
+0.028555,"frozenset({'packaged cheese', 'water seltzer sparkling water', 'fresh vegetables'})",3
+0.028555,"frozenset({'fresh fruits', 'frozen produce', 'milk'})",3
+0.028555,"frozenset({'packaged cheese', 'fresh vegetables', 'packaged vegetables fruits', 'milk', 'fresh fruits'})",5
+0.02854,"frozenset({'packaged vegetables fruits', 'yogurt', 'soy lactosefree', 'fresh fruits'})",4
+0.028445,"frozenset({'eggs', 'water seltzer sparkling water'})",2
+0.02844,"frozenset({'dry pasta', 'fresh vegetables', 'packaged vegetables fruits'})",3
+0.028435,"frozenset({'packaged cheese', 'fresh vegetables', 'lunch meat'})",3
+0.02843,"frozenset({'fresh fruits', 'popcorn jerky'})",2
+0.028395,"frozenset({'bread', 'yogurt', 'milk'})",3
+0.02838,"frozenset({'soup broth bouillon', 'packaged cheese'})",2
+0.02838,"frozenset({'nuts seeds dried fruit', 'yogurt'})",2
+0.028365,"frozenset({'frozen appetizers sides', 'fresh vegetables'})",2
+0.028365,"frozenset({'chips pretzels', 'fresh vegetables', 'yogurt', 'fresh fruits'})",4
+0.02835,"frozenset({'fresh fruits', 'poultry counter'})",2
+0.0283,"frozenset({'chips pretzels', 'ice cream ice'})",2
+0.028265,frozenset({'doughs gelatins bake mixes'}),1
+0.028245,"frozenset({'instant foods', 'fresh vegetables'})",2
+0.02821,"frozenset({'candy chocolate', 'fresh vegetables'})",2
+0.028185,"frozenset({'fresh fruits', 'packaged cheese', 'refrigerated'})",3
+0.02815,frozenset({'granola'}),1
+0.028145,"frozenset({'eggs', 'fresh fruits', 'bread'})",3
+0.0281,"frozenset({'chips pretzels', 'lunch meat'})",2
+0.02808,"frozenset({'asian foods', 'fresh fruits'})",2
+0.02805,"frozenset({'fresh fruits', 'bread', 'soy lactosefree'})",3
+0.02804,"frozenset({'fresh fruits', 'grains rice dried goods'})",2
+0.02804,"frozenset({'packaged vegetables fruits', 'yogurt', 'frozen produce'})",3
+0.02797,"frozenset({'packaged vegetables fruits', 'packaged cheese', 'bread', 'fresh fruits'})",4
+0.02794,"frozenset({'fresh fruits', 'lunch meat', 'milk'})",3
+0.0279,"frozenset({'packaged cheese', 'pasta sauce'})",2
+0.027845,"frozenset({'fresh vegetables', 'soft drinks'})",2
+0.027825,"frozenset({'chips pretzels', 'water seltzer sparkling water', 'fresh fruits'})",3
+0.0278,frozenset({'cleaning products'}),1
+0.02778,"frozenset({'condiments', 'packaged vegetables fruits'})",2
+0.02776,"frozenset({'water seltzer sparkling water', 'crackers'})",2
+0.027735,"frozenset({'eggs', 'chips pretzels'})",2
+0.02769,"frozenset({'packaged cheese', 'fresh vegetables', 'frozen produce'})",3
+0.027675,"frozenset({'cereal', 'yogurt', 'fresh fruits'})",3
+0.027665,"frozenset({'milk', 'butter'})",2
+0.02758,"frozenset({'soup broth bouillon', 'yogurt'})",2
+0.02757,"frozenset({'fresh fruits', 'crackers', 'milk'})",3
+0.02748,"frozenset({'bread', 'packaged cheese', 'yogurt'})",3
+0.02747,"frozenset({'packaged vegetables fruits', 'packaged cheese', 'soy lactosefree'})",3
+0.027245,"frozenset({'packaged cheese', 'chips pretzels', 'fresh vegetables', 'fresh fruits'})",4
+0.02722,frozenset({'dish detergents'}),1
+0.027205,"frozenset({'fresh fruits', 'energy granola bars', 'yogurt'})",3
+0.0272,"frozenset({'packaged cheese', 'energy granola bars'})",2
+0.027115,"frozenset({'chips pretzels', 'fresh vegetables', 'milk'})",3
+0.027085,frozenset({'prepared meals'}),1
+0.027035,"frozenset({'chips pretzels', 'yogurt', 'fresh fruits', 'packaged vegetables fruits'})",4
+0.027015,"frozenset({'fresh fruits', 'water seltzer sparkling water', 'soy lactosefree'})",3
+0.026975,"frozenset({'juice nectars', 'milk'})",2
+0.02697,"frozenset({'hot dogs bacon sausage', 'milk'})",2
+0.02697,"frozenset({'chips pretzels', 'soy lactosefree', 'fresh fruits'})",3
+0.02696,"frozenset({'packaged vegetables fruits', 'fresh fruits', 'butter'})",3
+0.026915,"frozenset({'packaged cheese', 'canned meals beans'})",2
+0.026915,"frozenset({'canned jarred vegetables', 'packaged cheese'})",2
+0.02684,"frozenset({'fresh fruits', 'fresh vegetables', 'yogurt', 'frozen produce'})",4
+0.026825,"frozenset({'packaged cheese', 'butter'})",2
+0.026775,"frozenset({'fresh fruits', 'frozen pizza'})",2
+0.026745,"frozenset({'eggs', 'packaged vegetables fruits', 'packaged cheese'})",3
+0.026675,"frozenset({'packaged vegetables fruits', 'bread', 'milk', 'fresh fruits'})",4
+0.02661,"frozenset({'packaged vegetables fruits', 'nuts seeds dried fruit', 'fresh vegetables'})",3
+0.02661,"frozenset({'fresh fruits', 'frozen produce', 'soy lactosefree'})",3
+0.026555,"frozenset({'fresh fruits', 'breakfast bakery', 'fresh vegetables'})",3
+0.026555,"frozenset({'fresh vegetables', 'yogurt', 'refrigerated'})",3
+0.02652,frozenset({'salad dressing toppings'}),1
+0.026505,"frozenset({'dry pasta', 'yogurt'})",2
+0.0265,"frozenset({'fresh fruits', 'ice cream ice', 'yogurt'})",3
+0.02646,"frozenset({'fresh herbs', 'packaged cheese', 'fresh vegetables'})",3
+0.02643,"frozenset({'fresh fruits', 'fresh dips tapenades', 'packaged cheese'})",3
+0.026425,"frozenset({'condiments', 'fresh fruits', 'fresh vegetables'})",3
+0.02638,"frozenset({'chips pretzels', 'energy granola bars'})",2
+0.026315,"frozenset({'spices seasonings', 'fresh fruits', 'fresh vegetables'})",3
+0.026205,"frozenset({'packaged cheese', 'crackers', 'fresh vegetables'})",3
+0.026195,"frozenset({'fresh fruits', 'fresh vegetables', 'frozen breakfast'})",3
+0.02614,"frozenset({'juice nectars', 'packaged cheese'})",2
+0.02607,"frozenset({'eggs', 'packaged vegetables fruits', 'milk'})",3
+0.026065,"frozenset({'canned jarred vegetables', 'packaged vegetables fruits', 'fresh vegetables', 'fresh fruits'})",4
+0.02605,"frozenset({'fresh fruits', 'fresh vegetables', 'frozen meals'})",3
+0.02602,"frozenset({'breakfast bakery', 'yogurt'})",2
+0.025975,"frozenset({'fresh herbs', 'fresh vegetables', 'yogurt'})",3
+0.02597,"frozenset({'packaged vegetables fruits', 'packaged cheese', 'lunch meat'})",3
+0.02596,"frozenset({'packaged cheese', 'fresh vegetables', 'yogurt', 'milk'})",4
+0.025905,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'canned meals beans', 'fresh fruits'})",4
+0.025895,"frozenset({'cereal', 'fresh vegetables', 'packaged vegetables fruits'})",3
+0.025885,"frozenset({'paper goods', 'fresh vegetables'})",2
+0.02588,"frozenset({'soup broth bouillon', 'packaged vegetables fruits', 'fresh vegetables', 'fresh fruits'})",4
+0.025835,"frozenset({'yogurt', 'fresh vegetables', 'lunch meat'})",3
+0.02583,"frozenset({'fresh fruits', 'water seltzer sparkling water', 'fresh vegetables', 'yogurt'})",4
+0.025815,"frozenset({'packaged vegetables fruits', 'fresh fruits', 'pasta sauce'})",3
+0.025785,"frozenset({'bread', 'frozen produce'})",2
+0.02578,"frozenset({'yogurt', 'frozen breakfast'})",2
+0.025755,"frozenset({'fresh fruits', 'packaged cheese', 'other creams cheeses'})",3
+0.025735,"frozenset({'packaged cheese', 'fresh fruits', 'fresh vegetables', 'soy lactosefree'})",4
+0.02568,"frozenset({'cereal', 'milk', 'fresh fruits'})",3
+0.02562,"frozenset({'spices seasonings', 'packaged vegetables fruits'})",2
+0.025605,"frozenset({'cream', 'packaged vegetables fruits', 'fresh vegetables'})",3
+0.02558,"frozenset({'eggs', 'fresh fruits', 'fresh vegetables', 'milk'})",4
+0.02556,"frozenset({'yogurt', 'frozen meals'})",2
+0.02556,"frozenset({'fresh vegetables', 'baby food formula'})",2
+0.025535,"frozenset({'eggs', 'fresh fruits', 'fresh vegetables', 'packaged cheese'})",4
+0.02552,"frozenset({'candy chocolate', 'packaged vegetables fruits'})",2
+0.0255,"frozenset({'packaged vegetables fruits', 'energy granola bars', 'fresh vegetables'})",3
+0.02544,"frozenset({'yogurt', 'butter'})",2
+0.02542,"frozenset({'chips pretzels', 'cereal'})",2
+0.02539,"frozenset({'packaged vegetables fruits', 'yogurt', 'fresh vegetables', 'bread'})",4
+0.02538,"frozenset({'baking ingredients', 'packaged vegetables fruits', 'fresh fruits'})",3
+0.02535,"frozenset({'energy granola bars', 'milk'})",2
+0.025345,"frozenset({'packaged vegetables fruits', 'refrigerated', 'yogurt'})",3
+0.02534,"frozenset({'fresh herbs', 'milk'})",2
+0.025325,"frozenset({'hot cereal pancake mixes', 'fresh vegetables'})",2
+0.02532,"frozenset({'yogurt', 'canned meals beans'})",2
+0.025275,"frozenset({'packaged vegetables fruits', 'water seltzer sparkling water', 'packaged cheese'})",3
+0.025255,"frozenset({'eggs', 'packaged vegetables fruits', 'yogurt', 'fresh fruits'})",4
+0.025255,"frozenset({'crackers', 'yogurt', 'fresh vegetables'})",3
+0.025215,"frozenset({'bread', 'packaged cheese', 'milk'})",3
+0.025215,"frozenset({'chips pretzels', 'milk', 'packaged vegetables fruits'})",3
+0.025175,"frozenset({'cereal', 'bread'})",2
+0.025125,"frozenset({'chips pretzels', 'packaged cheese', 'fresh fruits', 'packaged vegetables fruits'})",4
+0.025115,"frozenset({'chips pretzels', 'frozen produce'})",2
+0.025085,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'butter'})",3
+0.025085,frozenset({'laundry'}),1
+0.025055,"frozenset({'fresh fruits', 'lunch meat', 'bread'})",3
+0.025015,"frozenset({'fresh herbs', 'fresh fruits', 'yogurt'})",3
+0.024895,frozenset({'frozen vegan vegetarian'}),1
+0.02488,"frozenset({'fresh fruits', 'yogurt', 'other creams cheeses'})",3
+0.024865,"frozenset({'juice nectars', 'packaged vegetables fruits', 'fresh vegetables'})",3
+0.02479,"frozenset({'packaged vegetables fruits', 'oils vinegars', 'fresh fruits'})",3
+0.02479,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'spreads'})",3
+0.02477,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'pasta sauce'})",3
+0.02475,"frozenset({'packaged cheese', 'spreads'})",2
+0.02473,"frozenset({'packaged cheese', 'frozen meals'})",2
+0.02473,"frozenset({'chips pretzels', 'crackers', 'fresh fruits'})",3
+0.024725,"frozenset({'packaged vegetables fruits', 'packaged cheese', 'frozen produce'})",3
+0.024715,"frozenset({'breakfast bakery', 'packaged cheese'})",2
+0.02467,"frozenset({'packaged cheese', 'fresh vegetables', 'other creams cheeses'})",3
+0.024565,"frozenset({'fresh dips tapenades', 'fresh vegetables', 'yogurt'})",3
+0.024535,"frozenset({'chips pretzels', 'packaged cheese', 'yogurt'})",3
+0.024515,"frozenset({'packaged cheese', 'nuts seeds dried fruit'})",2
+0.0245,"frozenset({'fresh vegetables', 'tea'})",2
+0.02449,"frozenset({'chips pretzels', 'fresh fruits', 'fresh dips tapenades'})",3
+0.02448,"frozenset({'packaged vegetables fruits', 'soft drinks'})",2
+0.024475,"frozenset({'packaged cheese', 'packaged vegetables fruits', 'crackers'})",3
+0.02445,"frozenset({'packaged cheese', 'packaged vegetables fruits', 'fresh vegetables', 'bread'})",4
+0.02443,"frozenset({'tortillas flat bread', 'packaged cheese'})",2
+0.02441,frozenset({'energy sports drinks'}),1
+0.024375,"frozenset({'bread', 'ice cream ice'})",2
+0.024375,"frozenset({'packaged vegetables fruits', 'frozen appetizers sides'})",2
+0.02435,"frozenset({'crackers', 'soy lactosefree'})",2
+0.02435,"frozenset({'frozen produce', 'packaged vegetables fruits', 'yogurt', 'fresh fruits'})",4
+0.02435,"frozenset({'packaged vegetables fruits', 'water seltzer sparkling water', 'yogurt', 'fresh fruits'})",4
+0.02434,"frozenset({'fresh vegetables', 'frozen produce', 'milk'})",3
+0.024335,"frozenset({'fresh fruits', 'water seltzer sparkling water', 'bread'})",3
+0.024335,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'baking ingredients'})",3
+0.024315,"frozenset({'water seltzer sparkling water', 'soft drinks'})",2
+0.024275,"frozenset({'instant foods', 'packaged vegetables fruits'})",2
+0.024255,"frozenset({'spreads', 'milk'})",2
+0.02425,"frozenset({'packaged poultry', 'fresh vegetables'})",2
+0.02423,"frozenset({'breakfast bakery', 'milk'})",2
+0.024205,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'other creams cheeses', 'fresh fruits'})",4
+0.024185,"frozenset({'fresh herbs', 'fresh fruits', 'packaged cheese'})",3
+0.02417,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'oils vinegars'})",3
+0.02416,frozenset({'canned fruit applesauce'}),1
+0.02415,"frozenset({'packaged vegetables fruits', 'breakfast bakery', 'fresh fruits'})",3
+0.02414,"frozenset({'packaged vegetables fruits', 'packaged cheese', 'yogurt', 'milk'})",4
+0.02413,"frozenset({'fresh fruits', 'packaged poultry'})",2
+0.024115,"frozenset({'packaged vegetables fruits', 'crackers', 'yogurt'})",3
+0.0241,"frozenset({'water seltzer sparkling water', 'fresh vegetables', 'milk'})",3
+0.024045,"frozenset({'packaged vegetables fruits', 'yogurt', 'lunch meat'})",3
+0.024025,frozenset({'specialty cheeses'}),1
+0.024015,"frozenset({'cereal', 'soy lactosefree'})",2
+0.024005,"frozenset({'eggs', 'bread', 'fresh vegetables'})",3
+0.023955,"frozenset({'cookies cakes', 'fresh vegetables'})",2
+0.023935,"frozenset({'packaged vegetables fruits', 'fresh fruits', 'frozen meals'})",3
+0.023915,"frozenset({'dry pasta', 'milk'})",2
+0.02391,"frozenset({'tofu meat alternatives', 'fresh vegetables'})",2
+0.02388,"frozenset({'water seltzer sparkling water', 'frozen produce'})",2
+0.023865,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'hot dogs bacon sausage', 'fresh fruits'})",4
+0.023855,"frozenset({'packaged vegetables fruits', 'frozen breakfast', 'fresh fruits'})",3
+0.023845,"frozenset({'eggs', 'fresh fruits', 'soy lactosefree'})",3
+0.02381,"frozenset({'fresh dips tapenades', 'soy lactosefree'})",2
+0.023745,"frozenset({'packaged vegetables fruits', 'fresh dips tapenades', 'yogurt'})",3
+0.02374,"frozenset({'packaged produce', 'packaged vegetables fruits'})",2
+0.023735,"frozenset({'water seltzer sparkling water', 'ice cream ice'})",2
+0.023715,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'yogurt', 'soy lactosefree'})",4
+0.0237,"frozenset({'packaged vegetables fruits', 'packaged cheese', 'soy lactosefree', 'fresh fruits'})",4
+0.023685,"frozenset({'canned jarred vegetables', 'yogurt'})",2
+0.02359,"frozenset({'dry pasta', 'fresh vegetables', 'fresh fruits', 'packaged vegetables fruits'})",4
+0.0235,"frozenset({'ice cream ice', 'packaged vegetables fruits', 'fresh vegetables', 'fresh fruits'})",4
+0.023495,"frozenset({'cream', 'fresh fruits', 'milk'})",3
+0.023485,"frozenset({'bread', 'yogurt', 'milk', 'fresh fruits'})",4
+0.02343,"frozenset({'soup broth bouillon', 'milk'})",2
+0.023405,"frozenset({'yogurt', 'pasta sauce'})",2
+0.0234,"frozenset({'fresh fruits', 'other creams cheeses', 'milk'})",3
+0.02339,"frozenset({'eggs', 'frozen produce'})",2
+0.02338,"frozenset({'packaged cheese', 'fresh fruits', 'fresh vegetables', 'lunch meat'})",4
+0.02338,"frozenset({'bread', 'fresh dips tapenades'})",2
+0.023305,"frozenset({'chips pretzels', 'fresh vegetables', 'bread'})",3
+0.0233,"frozenset({'cream', 'fresh fruits', 'yogurt'})",3
+0.02326,"frozenset({'packaged cheese', 'fresh fruits', 'fresh vegetables', 'frozen produce'})",4
+0.023255,"frozenset({'fresh vegetables', 'packaged vegetables fruits', 'nuts seeds dried fruit', 'fresh fruits'})",4
+0.02321,"frozenset({'packaged cheese', 'fresh vegetables', 'yogurt', 'milk', 'fresh fruits'})",5
+0.023205,"frozenset({'baking ingredients', 'yogurt'})",2
+0.02319,"frozenset({'packaged vegetables fruits', 'tortillas flat bread', 'fresh fruits'})",3
+0.02319,"frozenset({'packaged cheese', 'fresh dips tapenades', 'fresh vegetables'})",3
+0.02318,"frozenset({'fresh fruits', 'tofu meat alternatives'})",2
+0.023175,"frozenset({'packaged cheese', 'fresh vegetables', 'refrigerated'})",3
+0.02314,"frozenset({'coffee', 'fresh vegetables'})",2
+0.023125,"frozenset({'cereal', 'packaged cheese', 'fresh fruits'})",3
+0.02311,"frozenset({'baking ingredients', 'packaged cheese'})",2
+0.023055,"frozenset({'fresh vegetables', 'frozen produce', 'soy lactosefree'})",3
+0.023045,"frozenset({'fresh fruits', 'refrigerated', 'soy lactosefree'})",3
+0.02304,"frozenset({'bread', 'fresh vegetables', 'soy lactosefree'})",3
+0.023015,"frozenset({'packaged vegetables fruits', 'baby food formula'})",2
+0.022975,"frozenset({'packaged cheese', 'frozen breakfast'})",2
+0.022955,"frozenset({'packaged cheese', 'fresh fruits', 'water seltzer sparkling water', 'fresh vegetables'})",4
+0.022945,"frozenset({'fresh fruits', 'yogurt', 'packaged cheese', 'bread'})",4
+0.022935,"frozenset({'fresh fruits', 'fresh vegetables', 'poultry counter'})",3
+0.022935,"frozenset({'fresh fruits', 'fresh dips tapenades', 'milk'})",3
+0.022915,"frozenset({'fresh fruits', 'yogurt', 'spreads'})",3
+0.022895,"frozenset({'water seltzer sparkling water', 'lunch meat'})",2
+0.02289,"frozenset({'soy lactosefree', 'fresh vegetables', 'milk'})",3
+0.022835,"frozenset({'ice cream ice', 'fresh fruits', 'packaged cheese'})",3
+0.022825,"frozenset({'bread', 'fresh vegetables', 'packaged vegetables fruits', 'yogurt', 'fresh fruits'})",5
+0.022815,"frozenset({'water seltzer sparkling water', 'energy granola bars'})",2
+0.02276,"frozenset({'eggs', 'refrigerated'})",2
+0.022745,"frozenset({'chips pretzels', 'fresh vegetables', 'milk', 'fresh fruits'})",4
+0.022675,"frozenset({'bread', 'spreads'})",2
+0.022665,"frozenset({'fresh fruits', 'fresh vegetables', 'yogurt', 'refrigerated'})",4
+0.022655,"frozenset({'juice nectars', 'fresh fruits', 'yogurt'})",3
+0.02263,"frozenset({'fresh fruits', 'nuts seeds dried fruit', 'yogurt'})",3
+0.022595,"frozenset({'chips pretzels', 'refrigerated', 'fresh fruits'})",3
+0.02258,"frozenset({'packaged produce', 'fresh vegetables'})",2
+0.02257,"frozenset({'fresh herbs', 'fresh fruits', 'fresh vegetables', 'yogurt'})",4
+0.022545,"frozenset({'fresh fruits', 'yogurt', 'fresh vegetables', 'lunch meat'})",4
+0.022545,"frozenset({'fresh fruits', 'yogurt', 'hot dogs bacon sausage'})",3
+0.02253,"frozenset({'packaged vegetables fruits', 'water seltzer sparkling water', 'milk'})",3
+0.02247,"frozenset({'packaged vegetables fruits', 'fresh fruits', 'energy granola bars', 'fresh vegetables'})",4
+0.022435,"frozenset({'chips pretzels', 'yogurt', 'milk'})",3
+0.022425,"frozenset({'packaged vegetables fruits', 'tea'})",2
+0.02242,"frozenset({'fresh fruits', 'crackers', 'bread'})",3
+0.022415,"frozenset({'fresh fruits', 'packaged cheese', 'hot dogs bacon sausage'})",3
+0.0224,"frozenset({'bread', 'fresh vegetables', 'milk', 'packaged vegetables fruits'})",4
+0.022375,"frozenset({'fresh vegetables', 'lunch meat', 'milk'})",3
+0.022365,"frozenset({'chips pretzels', 'soft drinks'})",2
+0.022335,"frozenset({'juice nectars', 'water seltzer sparkling water'})",2
+0.022325,"frozenset({'baking ingredients', 'milk'})",2
+0.022325,"frozenset({'juice nectars', 'chips pretzels'})",2
+0.022305,"frozenset({'fruit vegetable snacks', 'fresh vegetables'})",2
+0.02229,"frozenset({'eggs', 'lunch meat'})",2
+0.02225,"frozenset({'bread', 'hot dogs bacon sausage'})",2
+0.022245,"frozenset({'fresh fruits', 'grains rice dried goods', 'fresh vegetables'})",3
+0.022235,"frozenset({'eggs', 'packaged vegetables fruits', 'packaged cheese', 'fresh fruits'})",4
+0.022215,"frozenset({'water seltzer sparkling water', 'fresh dips tapenades'})",2
+0.022175,"frozenset({'eggs', 'packaged vegetables fruits', 'fresh vegetables', 'yogurt'})",4
+0.02216,"frozenset({'fresh fruits', 'water seltzer sparkling water', 'refrigerated'})",3
+0.02216,"frozenset({'cereal', 'fresh vegetables', 'fresh fruits', 'packaged vegetables fruits'})",4
+0.02214,"frozenset({'milk', 'frozen breakfast'})",2
+0.022095,"frozenset({'eggs', 'packaged vegetables fruits', 'milk', 'fresh fruits'})",4
+0.022085,"frozenset({'paper goods', 'packaged vegetables fruits'})",2
+0.022015,"frozenset({'hot cereal pancake mixes', 'packaged vegetables fruits'})",2
+0.021985,"frozenset({'cookies cakes', 'packaged vegetables fruits'})",2
+0.02195,"frozenset({'fresh herbs', 'fresh vegetables', 'milk'})",3
+0.021945,"frozenset({'instant foods', 'fresh fruits', 'fresh vegetables'})",3
+0.021895,"frozenset({'eggs', 'yogurt', 'milk'})",3
+0.02187,"frozenset({'fresh fruits', 'crackers', 'yogurt', 'fresh vegetables'})",4
+0.021865,"frozenset({'fresh fruits', 'fresh vegetables', 'baby food formula'})",3
+0.021865,"frozenset({'bread', 'other creams cheeses'})",2
+0.021855,"frozenset({'fresh vegetables', 'milk', 'refrigerated'})",3
+0.021855,frozenset({'meat counter'}),1
+0.021835,"frozenset({'fresh fruits', 'fresh vegetables', 'frozen appetizers sides'})",3
+0.021825,"frozenset({'juice nectars', 'refrigerated'})",2
+0.02182,"frozenset({'packaged vegetables fruits', 'grains rice dried goods'})",2
+0.0218,"frozenset({'chips pretzels', 'fresh vegetables', 'yogurt', 'packaged vegetables fruits'})",4
+0.021775,"frozenset({'canned jarred vegetables', 'packaged cheese', 'fresh vegetables'})",3
+0.021765,"frozenset({'fresh herbs', 'fresh fruits', 'fresh vegetables', 'packaged cheese'})",4
+0.02176,"frozenset({'nuts seeds dried fruit', 'milk'})",2
+0.02173,"frozenset({'packaged cheese', 'soft drinks'})",2
+0.021725,"frozenset({'packaged cheese', 'chips pretzels', 'fresh vegetables', 'packaged vegetables fruits'})",4
+0.02171,"frozenset({'packaged cheese', 'fresh fruits', 'crackers', 'fresh vegetables'})",4
+0.021675,"frozenset({'packaged vegetables fruits', 'packaged cheese', 'lunch meat', 'fresh fruits'})",4
+0.021665,"frozenset({'lunch meat', 'soy lactosefree'})",2
+0.02166,"frozenset({'frozen pizza', 'fresh vegetables'})",2
+0.02166,"frozenset({'candy chocolate', 'yogurt'})",2
+0.021645,"frozenset({'packaged vegetables fruits', 'refrigerated', 'yogurt', 'fresh fruits'})",4
+0.021645,"frozenset({'dry pasta', 'packaged cheese', 'fresh fruits'})",3
+0.021625,"frozenset({'energy granola bars', 'soy lactosefree'})",2
+0.021595,"frozenset({'asian foods', 'packaged vegetables fruits'})",2
+0.02159,"frozenset({'candy chocolate', 'fresh fruits', 'fresh vegetables'})",3
+0.02159,"frozenset({'fresh fruits', 'ice cream ice', 'milk'})",3
+0.021585,"frozenset({'packaged cheese', 'packaged vegetables fruits', 'yogurt', 'milk', 'fresh fruits'})",5
+0.021575,"frozenset({'packaged vegetables fruits', 'fresh dips tapenades', 'packaged cheese'})",3
+0.02156,"frozenset({'packaged vegetables fruits', 'tortillas flat bread', 'fresh vegetables'})",3
+0.021545,"frozenset({'bread', 'packaged cheese', 'fresh vegetables', 'packaged vegetables fruits', 'fresh fruits'})",5
+0.021535,"frozenset({'packaged vegetables fruits', 'poultry counter'})",2
+0.02152,"frozenset({'yogurt', 'baby food formula'})",2
+0.021515,"frozenset({'packaged cheese', 'yogurt', 'soy lactosefree'})",3
+0.0215,"frozenset({'fresh fruits', 'fresh dips tapenades', 'fresh vegetables', 'yogurt'})",4
+0.021485,"frozenset({'packaged vegetables fruits', 'frozen produce', 'milk'})",3
+0.02148,"frozenset({'chips pretzels', 'hot dogs bacon sausage'})",2
+0.021475,"frozenset({'fresh vegetables', 'packaged vegetables fruits', 'yogurt', 'fresh fruits', 'soy lactosefree'})",5
+0.02147,"frozenset({'fresh fruits', 'refrigerated', 'bread'})",3
+0.02145,"frozenset({'packaged cheese', 'fresh fruits', 'energy granola bars'})",3
+0.02145,"frozenset({'fresh vegetables', 'pickled goods olives'})",2
+0.021445,"frozenset({'fruit vegetable snacks', 'packaged vegetables fruits'})",2
+0.02142,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'spreads', 'fresh fruits'})",4
+0.0214,"frozenset({'chips pretzels', 'other creams cheeses'})",2
+0.02139,"frozenset({'ice cream ice', 'soy lactosefree'})",2
+0.021375,"frozenset({'packaged cheese', 'dry pasta', 'fresh vegetables'})",3
+0.02135,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'yogurt', 'frozen produce'})",4
+0.02134,"frozenset({'packaged vegetables fruits', 'coffee'})",2
+0.021305,"frozenset({'milk', 'frozen meals'})",2
+0.021295,"frozenset({'dry pasta', 'yogurt', 'fresh fruits'})",3
+0.021285,"frozenset({'chips pretzels', 'fresh fruits', 'milk', 'packaged vegetables fruits'})",4
+0.021285,"frozenset({'condiments', 'packaged vegetables fruits', 'fresh fruits'})",3
+0.021275,"frozenset({'soup broth bouillon', 'fresh fruits', 'yogurt'})",3
+0.021275,frozenset({'latino foods'}),1
+0.02122,"frozenset({'cream', 'fresh fruits', 'packaged cheese'})",3
+0.021175,"frozenset({'asian foods', 'fresh fruits', 'fresh vegetables'})",3
+0.021175,"frozenset({'instant foods', 'packaged cheese'})",2
+0.021135,"frozenset({'cream', 'packaged vegetables fruits', 'fresh vegetables', 'fresh fruits'})",4
+0.02112,"frozenset({'soy lactosefree', 'packaged vegetables fruits', 'milk'})",3
+0.021115,"frozenset({'packaged vegetables fruits', 'packaged cheese', 'refrigerated'})",3
+0.021105,"frozenset({'fresh vegetables', 'yogurt', 'other creams cheeses'})",3
+0.021085,"frozenset({'fresh dips tapenades', 'crackers'})",2
+0.02103,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'fresh fruits', 'butter'})",4
+0.021025,frozenset({'frozen meat seafood'}),1
+0.02101,"frozenset({'packaged vegetables fruits', 'yogurt', 'lunch meat', 'fresh fruits'})",4
+0.021005,"frozenset({'chips pretzels', 'fresh vegetables', 'soy lactosefree'})",3
+0.020995,"frozenset({'eggs', 'fresh fruits', 'chips pretzels'})",3
+0.020935,"frozenset({'eggs', 'fresh fruits', 'water seltzer sparkling water'})",3
+0.020935,"frozenset({'fresh herbs', 'soy lactosefree'})",2
+0.020915,"frozenset({'water seltzer sparkling water', 'yogurt', 'milk'})",3
+0.02091,"frozenset({'packaged vegetables fruits', 'packaged cheese', 'frozen produce', 'fresh fruits'})",4
+0.02091,"frozenset({'fresh herbs', 'fresh fruits', 'milk'})",3
+0.020885,"frozenset({'tortillas flat bread', 'yogurt'})",2
+0.020865,"frozenset({'ice cream ice', 'refrigerated'})",2
+0.020855,"frozenset({'fresh fruits', 'pickled goods olives'})",2
+0.020845,"frozenset({'packaged cheese', 'soup broth bouillon', 'fresh vegetables'})",3
+0.02084,"frozenset({'packaged vegetables fruits', 'crackers', 'yogurt', 'fresh fruits'})",4
+0.02083,"frozenset({'fresh fruits', 'fresh vegetables', 'frozen produce', 'milk'})",4
+0.020815,"frozenset({'fresh fruits', 'yogurt', 'canned meals beans'})",3
+0.020805,"frozenset({'spices seasonings', 'packaged vegetables fruits', 'fresh vegetables'})",3
+0.02078,"frozenset({'canned jarred vegetables', 'milk'})",2
+0.020775,"frozenset({'chips pretzels', 'bread', 'packaged vegetables fruits'})",3
+0.02077,"frozenset({'condiments', 'packaged vegetables fruits', 'fresh vegetables'})",3
+0.02077,"frozenset({'juice nectars', 'packaged vegetables fruits', 'fresh vegetables', 'fresh fruits'})",4
+0.020765,"frozenset({'spreads', 'soy lactosefree'})",2
+0.02075,"frozenset({'hot cereal pancake mixes', 'fresh fruits', 'fresh vegetables'})",3
+0.02074,"frozenset({'fresh fruits', 'bread', 'frozen produce'})",3
+0.02071,"frozenset({'chips pretzels', 'lunch meat', 'fresh fruits'})",3
+0.02071,"frozenset({'chips pretzels', 'packaged cheese', 'milk'})",3
+0.020705,"frozenset({'fresh fruits', 'preserved dips spreads'})",2
+0.020705,"frozenset({'water seltzer sparkling water', 'fresh vegetables', 'soy lactosefree'})",3
+0.020695,"frozenset({'cookies cakes', 'chips pretzels'})",2
+0.020695,"frozenset({'eggs', 'fresh vegetables', 'soy lactosefree'})",3
+0.020685,"frozenset({'packaged vegetables fruits', 'frozen produce', 'soy lactosefree'})",3
+0.02068,"frozenset({'crackers', 'lunch meat'})",2
+0.020675,frozenset({'missing'}),1
+0.020675,"frozenset({'packaged cheese', 'crackers', 'yogurt'})",3
+0.020645,"frozenset({'packaged cheese', 'fresh vegetables', 'canned meals beans'})",3
+0.020635,"frozenset({'packaged vegetables fruits', 'fresh dips tapenades', 'yogurt', 'fresh fruits'})",4
+0.02063,"frozenset({'eggs', 'packaged vegetables fruits', 'fresh vegetables', 'packaged cheese'})",4
+0.020625,"frozenset({'packaged cheese', 'packaged vegetables fruits', 'fresh vegetables', 'soy lactosefree'})",4
+0.0206,"frozenset({'yogurt', 'soft drinks'})",2
+0.020595,"frozenset({'packaged cheese', 'fresh vegetables', 'hot dogs bacon sausage'})",3
+0.02058,"frozenset({'packaged vegetables fruits', 'lunch meat', 'milk'})",3
+0.02058,"frozenset({'packaged vegetables fruits', 'pasta sauce', 'fresh vegetables', 'fresh fruits'})",4
+0.02055,"frozenset({'crackers', 'milk', 'fresh vegetables'})",3
+0.020545,"frozenset({'ice cream ice', 'fresh vegetables', 'yogurt'})",3
+0.020545,"frozenset({'packaged vegetables fruits', 'water seltzer sparkling water', 'packaged cheese', 'fresh fruits'})",4
+0.02054,"frozenset({'water seltzer sparkling water', 'packaged cheese', 'yogurt'})",3
+0.02053,"frozenset({'soft drinks', 'milk'})",2
+0.02052,"frozenset({'fresh fruits', 'packaged cheese', 'canned meals beans'})",3
+0.02051,"frozenset({'refrigerated', 'frozen produce'})",2
+0.020505,"frozenset({'packaged vegetables fruits', 'bread', 'soy lactosefree'})",3
+0.020505,"frozenset({'instant foods', 'yogurt'})",2
+0.020505,"frozenset({'crackers', 'refrigerated'})",2
+0.020495,"frozenset({'bread', 'fresh vegetables', 'lunch meat'})",3
+0.02049,"frozenset({'soup broth bouillon', 'fresh fruits', 'packaged cheese'})",3
+0.02046,"frozenset({'cereal', 'water seltzer sparkling water'})",2
+0.020425,"frozenset({'eggs', 'hot dogs bacon sausage'})",2
+0.02042,"frozenset({'packaged cheese', 'packaged vegetables fruits', 'crackers', 'fresh fruits'})",4
+0.02041,"frozenset({'milk', 'canned meals beans'})",2
+0.02041,"frozenset({'eggs', 'crackers'})",2
+0.02041,"frozenset({'fresh fruits', 'granola'})",2
+0.020395,"frozenset({'fresh fruits', 'yogurt', 'frozen breakfast'})",3
+0.020395,"frozenset({'bread', 'packaged cheese', 'milk', 'fresh fruits'})",4
+0.020375,"frozenset({'eggs', 'packaged vegetables fruits', 'bread'})",3
+0.02037,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'frozen meals'})",3
+0.020335,"frozenset({'fresh fruits', 'milk', 'butter'})",3
+0.020325,"frozenset({'chips pretzels', 'frozen meals'})",2
+0.020325,"frozenset({'eggs', 'packaged cheese', 'yogurt'})",3
+0.020315,"frozenset({'fresh fruits', 'packaged cheese', 'pasta sauce'})",3
+0.0203,"frozenset({'cereal', 'fresh vegetables', 'yogurt'})",3
+0.02028,"frozenset({'cream', 'bread'})",2
+0.020245,"frozenset({'chips pretzels', 'packaged cheese', 'yogurt', 'fresh fruits'})",4
+0.020235,"frozenset({'condiments', 'packaged cheese'})",2
+0.02023,"frozenset({'milk', 'pasta sauce'})",2
+0.020215,"frozenset({'chips pretzels', 'water seltzer sparkling water', 'fresh vegetables'})",3
+0.020195,"frozenset({'fresh fruits', 'energy granola bars', 'milk'})",3
+0.020195,"frozenset({'packaged vegetables fruits', 'refrigerated', 'milk'})",3
+0.02018,"frozenset({'fresh fruits', 'breakfast bakery', 'yogurt'})",3
+0.02018,"frozenset({'fresh fruits', 'water seltzer sparkling water', 'fresh vegetables', 'milk'})",4
+0.020145,"frozenset({'cream', 'water seltzer sparkling water'})",2
+0.02014,"frozenset({'frozen appetizers sides', 'packaged cheese'})",2
+0.020105,"frozenset({'soup broth bouillon', 'fresh vegetables', 'yogurt'})",3
+0.02007,"frozenset({'candy chocolate', 'chips pretzels'})",2
+0.02002,"frozenset({'packaged cheese', 'oils vinegars'})",2
+0.020015,"frozenset({'fresh fruits', 'yogurt', 'butter'})",3
+0.020015,frozenset({'honeys syrups nectars'}),1
+0.01997,"frozenset({'fresh fruits', 'hot dogs bacon sausage', 'milk'})",3
+0.019965,"frozenset({'baking ingredients', 'packaged vegetables fruits', 'fresh vegetables', 'fresh fruits'})",4
+0.01996,"frozenset({'packaged vegetables fruits', 'packaged cheese', 'other creams cheeses'})",3
+0.01996,"frozenset({'eggs', 'fresh fruits', 'fresh vegetables', 'bread'})",4
+0.019915,"frozenset({'bread', 'breakfast bakery'})",2
+0.019895,"frozenset({'bread', 'butter'})",2
+0.01989,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'oils vinegars', 'fresh fruits'})",4
+0.019875,"frozenset({'other creams cheeses', 'milk', 'fresh vegetables'})",3
+0.019865,"frozenset({'yogurt', 'packaged cheese', 'lunch meat'})",3
+0.01986,"frozenset({'fresh fruits', 'buns rolls'})",2
+0.019845,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'frozen breakfast'})",3
+0.01984,"frozenset({'fresh fruits', 'fresh vegetables', 'frozen produce', 'soy lactosefree'})",4
+0.01983,"frozenset({'packaged vegetables fruits', 'fresh fruits', 'baby food formula'})",3
+0.019815,"frozenset({'bread', 'fresh vegetables', 'packaged vegetables fruits', 'milk', 'fresh fruits'})",5
+0.01978,"frozenset({'eggs', 'fresh vegetables', 'packaged vegetables fruits', 'yogurt', 'fresh fruits'})",5
+0.01977,"frozenset({'juice nectars', 'fresh fruits', 'milk'})",3
+0.01976,"frozenset({'fresh fruits', 'packaged cheese', 'butter'})",3
+0.01976,"frozenset({'candy chocolate', 'fresh fruits', 'packaged vegetables fruits'})",3
+0.01976,"frozenset({'chips pretzels', 'fresh dips tapenades', 'fresh vegetables'})",3
+0.01975,"frozenset({'soup broth bouillon', 'bread'})",2
+0.01973,"frozenset({'cream', 'chips pretzels'})",2
+0.019715,"frozenset({'packaged vegetables fruits', 'crackers', 'milk'})",3
+0.0197,"frozenset({'soy lactosefree', 'fresh fruits', 'fresh vegetables', 'milk'})",4
+0.019675,"frozenset({'fresh fruits', 'fresh vegetables', 'bread', 'soy lactosefree'})",4
+0.019655,"frozenset({'packaged cheese', 'ice cream ice', 'fresh vegetables'})",3
+0.01965,"frozenset({'packaged vegetables fruits', 'breakfast bakery', 'fresh vegetables'})",3
+0.01961,"frozenset({'packaged cheese', 'fresh vegetables', 'pasta sauce'})",3
+0.01961,"frozenset({'juice nectars', 'bread'})",2
+0.019605,"frozenset({'canned jarred vegetables', 'fresh fruits', 'packaged cheese'})",3
+0.019585,"frozenset({'spices seasonings', 'fresh fruits', 'packaged vegetables fruits'})",3
+0.01957,"frozenset({'chips pretzels', 'energy granola bars', 'fresh fruits'})",3
+0.019555,"frozenset({'chips pretzels', 'frozen produce', 'fresh fruits'})",3
+0.01955,"frozenset({'chips pretzels', 'nuts seeds dried fruit'})",2
+0.01954,"frozenset({'cereal', 'crackers'})",2
+0.01952,"frozenset({'fresh vegetables', 'yogurt', 'canned meals beans'})",3
+0.019515,"frozenset({'eggs', 'packaged vegetables fruits', 'fresh vegetables', 'milk'})",4
+0.0195,"frozenset({'fresh vegetables', 'chips pretzels', 'packaged vegetables fruits', 'yogurt', 'fresh fruits'})",5
+0.01949,"frozenset({'chips pretzels', 'soy lactosefree', 'packaged vegetables fruits'})",3
+0.01947,"frozenset({'fresh fruits', 'water seltzer sparkling water', 'crackers'})",3
+0.019465,"frozenset({'yogurt', 'oils vinegars'})",2
+0.019435,"frozenset({'packaged cheese', 'fresh fruits', 'fresh dips tapenades', 'fresh vegetables'})",4
+0.019435,"frozenset({'dry pasta', 'pasta sauce'})",2
+0.019435,"frozenset({'cookies cakes', 'yogurt'})",2
+0.019415,"frozenset({'bread', 'energy granola bars'})",2
+0.019395,"frozenset({'nuts seeds dried fruit', 'soy lactosefree'})",2
+0.01939,"frozenset({'packaged vegetables fruits', 'water seltzer sparkling water', 'fresh vegetables', 'yogurt'})",4
+0.01937,"frozenset({'fresh fruits', 'fresh dips tapenades', 'soy lactosefree'})",3
+0.01935,"frozenset({'instant foods', 'fresh fruits', 'packaged vegetables fruits'})",3
+0.019335,"frozenset({'popcorn jerky', 'fresh vegetables'})",2
+0.01933,"frozenset({'cereal', 'yogurt', 'packaged vegetables fruits'})",3
+0.019315,frozenset({'canned meat seafood'}),1
+0.01929,"frozenset({'eggs', 'packaged cheese', 'milk'})",3
+0.019265,"frozenset({'packaged vegetables fruits', 'popcorn jerky'})",2
+0.019255,"frozenset({'dry pasta', 'bread'})",2
+0.019245,frozenset({'prepared soups salads'}),1
+0.019245,"frozenset({'packaged cheese', 'packaged vegetables fruits', 'fresh vegetables', 'lunch meat'})",4
+0.019235,"frozenset({'chips pretzels', 'fresh vegetables', 'bread', 'fresh fruits'})",4
+0.019235,"frozenset({'canned jarred vegetables', 'fresh vegetables', 'yogurt'})",3
+0.01921,"frozenset({'bread', 'water seltzer sparkling water', 'fresh vegetables'})",3
+0.0192,"frozenset({'milk', 'baby food formula'})",2
+0.01918,"frozenset({'fresh herbs', 'packaged vegetables fruits', 'yogurt'})",3
+0.019175,"frozenset({'instant foods', 'milk'})",2
+0.019165,"frozenset({'refrigerated', 'yogurt', 'milk'})",3
+0.019145,"frozenset({'fresh fruits', 'packaged cheese', 'spreads'})",3
+0.01914,"frozenset({'dry pasta', 'fresh vegetables', 'yogurt'})",3
+0.01914,"frozenset({'packaged cheese', 'fresh fruits', 'nuts seeds dried fruit'})",3
+0.01914,"frozenset({'fresh fruits', 'fresh vegetables', 'lunch meat', 'milk'})",4
+0.01913,"frozenset({'packaged vegetables fruits', 'water seltzer sparkling water', 'soy lactosefree'})",3
+0.019125,"frozenset({'packaged cheese', 'packaged vegetables fruits', 'fresh vegetables', 'frozen produce'})",4
+0.019125,"frozenset({'packaged vegetables fruits', 'frozen pizza'})",2
+0.01911,"frozenset({'fresh vegetables', 'preserved dips spreads'})",2
+0.019085,"frozenset({'packaged vegetables fruits', 'frozen appetizers sides', 'fresh fruits'})",3
+0.01908,"frozenset({'canned jarred vegetables', 'fresh fruits', 'yogurt'})",3
+0.019075,"frozenset({'packaged cheese', 'fresh fruits', 'fresh vegetables', 'other creams cheeses'})",4
+0.019055,"frozenset({'fresh fruits', 'crackers', 'soy lactosefree'})",3
+0.01903,"frozenset({'refrigerated', 'lunch meat'})",2
+0.01902,"frozenset({'frozen appetizers sides', 'yogurt'})",2
+0.01902,"frozenset({'fresh vegetables', 'yogurt', 'hot dogs bacon sausage'})",3
+0.019005,"frozenset({'energy granola bars', 'crackers'})",2
+0.019005,"frozenset({'packaged cheese', 'fresh fruits', 'fresh vegetables', 'refrigerated'})",4
+0.019,"frozenset({'chips pretzels', 'water seltzer sparkling water', 'packaged vegetables fruits'})",3
+0.019,"frozenset({'fresh vegetables', 'packaged vegetables fruits', 'yogurt', 'fresh fruits', 'frozen produce'})",5
+0.01899,"frozenset({'fresh herbs', 'packaged vegetables fruits', 'packaged cheese'})",3
+0.01898,"frozenset({'packaged vegetables fruits', 'packaged poultry'})",2
+0.01896,"frozenset({'packaged vegetables fruits', 'energy granola bars', 'yogurt'})",3
+0.01894,"frozenset({'juice nectars', 'fresh fruits', 'packaged cheese'})",3
+0.018935,"frozenset({'yogurt', 'packaged cheese', 'frozen produce'})",3
+0.01893,"frozenset({'fresh fruits', 'fresh vegetables', 'soft drinks'})",3
+0.018895,"frozenset({'crackers', 'frozen produce'})",2
+0.018895,"frozenset({'soup broth bouillon', 'soy lactosefree'})",2
+0.01886,"frozenset({'fresh fruits', 'yogurt', 'pasta sauce'})",3
+0.018855,"frozenset({'chips pretzels', 'breakfast bakery'})",2
+0.018795,"frozenset({'cookies cakes', 'packaged cheese'})",2
+0.01879,"frozenset({'juice nectars', 'soy lactosefree'})",2
+0.018785,"frozenset({'eggs', 'fresh fruits', 'frozen produce'})",3
+0.018775,frozenset({'breakfast bars pastries'}),1
+0.01877,"frozenset({'fresh fruits', 'water seltzer sparkling water', 'milk', 'packaged vegetables fruits'})",4
+0.01875,"frozenset({'fresh fruits', 'fresh vegetables', 'tea'})",3
+0.01875,"frozenset({'fruit vegetable snacks', 'yogurt'})",2
+0.018745,"frozenset({'fresh dips tapenades', 'fresh vegetables', 'milk'})",3
+0.01873,"frozenset({'fresh vegetables', 'packaged cheese', 'chips pretzels', 'packaged vegetables fruits', 'fresh fruits'})",5
+0.018725,"frozenset({'soy lactosefree', 'yogurt', 'milk'})",3
+0.018705,"frozenset({'cereal', 'bread', 'fresh fruits'})",3
+0.01867,"frozenset({'chips pretzels', 'yogurt', 'milk', 'fresh fruits'})",4
+0.018655,"frozenset({'chips pretzels', 'packaged vegetables fruits', 'fresh dips tapenades'})",3
+0.018635,"frozenset({'soy lactosefree', 'packaged vegetables fruits', 'milk', 'fresh fruits'})",4
+0.01863,"frozenset({'fresh fruits', 'yogurt', 'frozen meals'})",3
+0.01859,"frozenset({'fresh fruits', 'spreads', 'milk'})",3
+0.01859,"frozenset({'fresh herbs', 'fresh fruits', 'fresh vegetables', 'milk'})",4
+0.01859,"frozenset({'fruit vegetable snacks', 'fresh fruits', 'fresh vegetables'})",3
+0.01858,"frozenset({'chips pretzels', 'spreads'})",2
+0.01858,"frozenset({'packaged vegetables fruits', 'lunch meat', 'bread'})",3
+0.018575,"frozenset({'cereal', 'fresh vegetables', 'milk'})",3
+0.01857,"frozenset({'fresh fruits', 'breakfast bakery', 'packaged cheese'})",3
+0.018565,"frozenset({'packaged vegetables fruits', 'frozen produce', 'milk', 'fresh fruits'})",4
+0.01856,"frozenset({'soup broth bouillon', 'chips pretzels'})",2
+0.01854,"frozenset({'chips pretzels', 'ice cream ice', 'fresh fruits'})",3
+0.01853,"frozenset({'cookies cakes', 'fresh fruits', 'fresh vegetables'})",3
+0.018525,"frozenset({'energy granola bars', 'yogurt', 'fresh vegetables'})",3
+0.018495,"frozenset({'fresh fruits', 'packaged cheese', 'yogurt', 'soy lactosefree'})",4
+0.01848,"frozenset({'packaged cheese', 'bread', 'fresh vegetables', 'yogurt'})",4
+0.018475,"frozenset({'fresh fruits', 'fresh dips tapenades', 'bread'})",3
+0.018455,"frozenset({'fresh fruits', 'tofu meat alternatives', 'fresh vegetables'})",3
+0.018455,"frozenset({'yogurt', 'tea'})",2
+0.018455,"frozenset({'packaged cheese', 'fresh vegetables', 'butter'})",3
+0.01845,"frozenset({'cream', 'soy lactosefree'})",2
+0.018425,"frozenset({'fresh herbs', 'fresh vegetables', 'soy lactosefree'})",3
+0.01842,"frozenset({'cookies cakes', 'milk'})",2
+0.01842,"frozenset({'hot cereal pancake mixes', 'yogurt'})",2
+0.01839,"frozenset({'chips pretzels', 'crackers', 'fresh vegetables'})",3
+0.018375,"frozenset({'packaged cheese', 'fresh vegetables', 'packaged vegetables fruits', 'fresh fruits', 'soy lactosefree'})",5
+0.018365,"frozenset({'packaged cheese', 'cereal', 'fresh vegetables'})",3
+0.018335,"frozenset({'packaged vegetables fruits', 'tortillas flat bread', 'fresh vegetables', 'fresh fruits'})",4
+0.018335,"frozenset({'cream', 'packaged cheese', 'fresh vegetables'})",3
+0.01831,"frozenset({'fresh fruits', 'breakfast bakery', 'milk'})",3
+0.018285,"frozenset({'eggs', 'fresh dips tapenades'})",2
+0.01826,"frozenset({'paper goods', 'fresh fruits', 'fresh vegetables'})",3
+0.01826,"frozenset({'eggs', 'fresh fruits', 'yogurt', 'milk'})",4
+0.018245,"frozenset({'packaged vegetables fruits', 'ice cream ice', 'yogurt'})",3
+0.018245,"frozenset({'fresh fruits', 'fresh vegetables', 'milk', 'refrigerated'})",4
+0.01823,"frozenset({'fresh herbs', 'bread'})",2
+0.018225,"frozenset({'packaged cheese', 'fresh vegetables', 'packaged vegetables fruits', 'yogurt', 'milk'})",5
+0.018215,"frozenset({'dry pasta', 'milk', 'fresh fruits'})",3
+0.01821,"frozenset({'packaged vegetables fruits', 'fresh dips tapenades', 'packaged cheese', 'fresh fruits'})",4
+0.018205,"frozenset({'fresh fruits', 'water seltzer sparkling water', 'frozen produce'})",3
+0.0182,"frozenset({'candy chocolate', 'packaged cheese'})",2
+0.018185,"frozenset({'packaged vegetables fruits', 'tofu meat alternatives'})",2
+0.018175,"frozenset({'bread', 'fresh vegetables', 'yogurt', 'milk'})",4
+0.018145,"frozenset({'condiments', 'yogurt'})",2
+0.018115,"frozenset({'eggs', 'chips pretzels', 'fresh vegetables'})",3
+0.01811,"frozenset({'tortillas flat bread', 'milk'})",2
+0.01811,"frozenset({'bread', 'fresh vegetables', 'frozen produce'})",3
+0.0181,"frozenset({'packaged produce', 'fresh fruits', 'packaged vegetables fruits'})",3
+0.01809,"frozenset({'hot cereal pancake mixes', 'packaged vegetables fruits', 'fresh fruits'})",3
+0.018075,"frozenset({'yogurt', 'milk', 'frozen produce'})",3
+0.01805,"frozenset({'packaged cheese', 'lunch meat', 'milk'})",3
+0.01803,"frozenset({'fresh fruits', 'fresh vegetables', 'packaged poultry'})",3
+0.018025,"frozenset({'chips pretzels', 'packaged cheese', 'bread'})",3
+0.018015,"frozenset({'bread', 'crackers', 'fresh vegetables'})",3
+0.01799,"frozenset({'fresh fruits', 'tortillas flat bread', 'packaged cheese'})",3
+0.01799,"frozenset({'packaged vegetables fruits', 'frozen produce', 'soy lactosefree', 'fresh fruits'})",4
+0.01798,"frozenset({'fresh fruits', 'yogurt', 'baby food formula'})",3
+0.01798,"frozenset({'baking ingredients', 'soy lactosefree'})",2
+0.01796,"frozenset({'chips pretzels', 'crackers', 'packaged vegetables fruits'})",3
+0.01795,"frozenset({'packaged vegetables fruits', 'yogurt', 'other creams cheeses'})",3
+0.01793,"frozenset({'crackers', 'yogurt', 'milk'})",3
+0.01793,"frozenset({'eggs', 'water seltzer sparkling water', 'fresh vegetables'})",3
+0.017925,"frozenset({'packaged cheese', 'packaged vegetables fruits', 'water seltzer sparkling water', 'fresh vegetables'})",4
+0.01791,"frozenset({'coffee', 'yogurt'})",2
+0.01791,frozenset({'marinades meat preparation'}),1
+0.017905,"frozenset({'fresh fruits', 'fresh vegetables', 'yogurt', 'other creams cheeses'})",4
+0.01789,"frozenset({'canned jarred vegetables', 'canned meals beans'})",2
+0.01788,"frozenset({'lunch meat', 'hot dogs bacon sausage'})",2
+0.01788,"frozenset({'packaged vegetables fruits', 'bread', 'soy lactosefree', 'fresh fruits'})",4
+0.017875,"frozenset({'water seltzer sparkling water', 'nuts seeds dried fruit'})",2
+0.01787,"frozenset({'cereal', 'soy lactosefree', 'fresh fruits'})",3
+0.017865,"frozenset({'chips pretzels', 'cereal', 'fresh fruits'})",3
+0.017835,"frozenset({'packaged cheese', 'yogurt', 'refrigerated'})",3
+0.017835,"frozenset({'fresh fruits', 'prepared meals'})",2
+0.01783,"frozenset({'ice cream ice', 'crackers'})",2
+0.017815,"frozenset({'packaged vegetables fruits', 'yogurt', 'fresh vegetables', 'lunch meat'})",4
+0.01781,"frozenset({'fruit vegetable snacks', 'packaged vegetables fruits', 'fresh fruits'})",3
+0.017805,"frozenset({'eggs', 'fresh vegetables', 'packaged cheese', 'packaged vegetables fruits', 'fresh fruits'})",5
+0.0178,"frozenset({'chips pretzels', 'fresh vegetables', 'soy lactosefree', 'fresh fruits'})",4
+0.01779,"frozenset({'packaged vegetables fruits', 'lunch meat', 'milk', 'fresh fruits'})",4
+0.01778,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'poultry counter'})",3
+0.01777,"frozenset({'fresh vegetables', 'milk', 'butter'})",3
+0.01776,"frozenset({'eggs', 'packaged vegetables fruits', 'soy lactosefree'})",3
+0.017755,"frozenset({'soy lactosefree', 'fresh vegetables', 'refrigerated'})",3
+0.01772,"frozenset({'yogurt', 'lunch meat', 'milk'})",3
+0.01772,"frozenset({'candy chocolate', 'milk'})",2
+0.017715,"frozenset({'fresh fruits', 'crackers', 'milk', 'fresh vegetables'})",4
+0.017705,"frozenset({'cream', 'fresh vegetables', 'yogurt'})",3
+0.01766,"frozenset({'eggs', 'other creams cheeses'})",2
+0.01766,"frozenset({'eggs', 'fresh fruits', 'fresh vegetables', 'soy lactosefree'})",4
+0.01765,"frozenset({'paper goods', 'water seltzer sparkling water'})",2
+0.01765,"frozenset({'frozen appetizers sides', 'milk'})",2
+0.017645,"frozenset({'packaged vegetables fruits', 'grains rice dried goods', 'fresh vegetables'})",3
+0.017645,"frozenset({'fresh herbs', 'fresh fruits', 'soy lactosefree'})",3
+0.017635,"frozenset({'packaged vegetables fruits', 'poultry counter', 'fresh fruits'})",3
+0.017615,frozenset({'oral hygiene'}),1
+0.01758,"frozenset({'fresh fruits', 'packaged cheese', 'frozen breakfast'})",3
+0.017565,"frozenset({'packaged vegetables fruits', 'packaged cheese', 'hot dogs bacon sausage'})",3
+0.017565,"frozenset({'fresh vegetables', 'buns rolls'})",2
+0.017565,"frozenset({'packaged cheese', 'packaged vegetables fruits', 'crackers', 'fresh vegetables'})",4
+0.01756,"frozenset({'packaged vegetables fruits', 'packaged cheese', 'refrigerated', 'fresh fruits'})",4
+0.017545,"frozenset({'water seltzer sparkling water', 'hot dogs bacon sausage'})",2
+0.017545,"frozenset({'packaged vegetables fruits', 'fresh dips tapenades', 'fresh vegetables', 'yogurt'})",4
+0.01753,"frozenset({'fresh fruits', 'yogurt', 'baking ingredients'})",3
+0.017525,"frozenset({'packaged vegetables fruits', 'fresh dips tapenades', 'milk'})",3
+0.0175,"frozenset({'fresh fruits', 'coffee', 'fresh vegetables'})",3
+0.017495,"frozenset({'eggs', 'fresh herbs'})",2
+0.017485,"frozenset({'packaged vegetables fruits', 'yogurt', 'packaged cheese', 'bread'})",4
+0.017485,frozenset({'food storage'}),1
+0.01748,"frozenset({'packaged vegetables fruits', 'grains rice dried goods', 'fresh fruits'})",3
+0.017475,"frozenset({'eggs', 'ice cream ice'})",2
+0.017475,"frozenset({'fresh herbs', 'frozen produce'})",2
+0.01744,"frozenset({'fresh herbs', 'packaged vegetables fruits', 'fresh vegetables', 'yogurt'})",4
+0.017435,"frozenset({'chips pretzels', 'bread', 'fresh fruits', 'packaged vegetables fruits'})",4
+0.017405,"frozenset({'soup broth bouillon', 'fresh fruits', 'milk'})",3
+0.017395,"frozenset({'cereal', 'fresh vegetables', 'yogurt', 'fresh fruits'})",4
+0.017385,"frozenset({'cereal', 'milk', 'packaged vegetables fruits'})",3
+0.01738,"frozenset({'paper goods', 'yogurt'})",2
+0.01735,"frozenset({'eggs', 'butter'})",2
+0.017335,"frozenset({'packaged vegetables fruits', 'tea', 'fresh fruits'})",3
+0.01731,"frozenset({'fresh herbs', 'canned jarred vegetables'})",2
+0.017305,"frozenset({'soy lactosefree', 'canned meals beans'})",2
+0.017305,"frozenset({'milk', 'oils vinegars'})",2
+0.0173,"frozenset({'cream', 'fresh vegetables', 'milk'})",3
+0.017295,"frozenset({'bread', 'canned meals beans'})",2
+0.01729,"frozenset({'fresh dips tapenades', 'frozen produce'})",2
+0.017275,"frozenset({'fresh fruits', 'doughs gelatins bake mixes'})",2
+0.017275,"frozenset({'yogurt', 'fresh vegetables', 'spreads'})",3
+0.017265,"frozenset({'chips pretzels', 'yogurt', 'bread'})",3
+0.01726,"frozenset({'eggs', 'fresh fruits', 'lunch meat'})",3
+0.01725,"frozenset({'juice nectars', 'fresh vegetables', 'yogurt'})",3
+0.017245,"frozenset({'eggs', 'packaged vegetables fruits', 'bread', 'fresh fruits'})",4
+0.017245,"frozenset({'chips pretzels', 'fresh vegetables', 'milk', 'packaged vegetables fruits'})",4
+0.01724,"frozenset({'packaged vegetables fruits', 'water seltzer sparkling water', 'bread'})",3
+0.01724,"frozenset({'fresh fruits', 'canned fruit applesauce'})",2
+0.017235,"frozenset({'fresh herbs', 'packaged vegetables fruits', 'fresh vegetables', 'packaged cheese'})",4
+0.01723,"frozenset({'energy granola bars', 'refrigerated'})",2
+0.01722,"frozenset({'chips pretzels', 'dry pasta'})",2
+0.017215,"frozenset({'fresh vegetables', 'yogurt', 'butter'})",3
+0.01721,"frozenset({'bread', 'frozen meals'})",2
+0.017205,"frozenset({'fresh fruits', 'nuts seeds dried fruit', 'milk'})",3
+0.0172,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'yogurt', 'refrigerated'})",4
+0.017185,"frozenset({'fresh fruits', 'lunch meat', 'soy lactosefree'})",3
+0.01718,"frozenset({'fresh fruits', 'milk', 'frozen breakfast'})",3
+0.01716,"frozenset({'bread', 'frozen breakfast'})",2
+0.01716,"frozenset({'eggs', 'fresh vegetables', 'frozen produce'})",3
+0.01716,"frozenset({'fresh vegetables', 'packaged vegetables fruits', 'yogurt', 'fresh fruits', 'water seltzer sparkling water'})",5
+0.01715,"frozenset({'fresh herbs', 'water seltzer sparkling water'})",2
+0.01715,"frozenset({'eggs', 'fresh vegetables', 'packaged vegetables fruits', 'milk', 'fresh fruits'})",5
+0.01715,"frozenset({'eggs', 'fresh fruits', 'refrigerated'})",3
+0.01715,"frozenset({'packaged vegetables fruits', 'yogurt', 'hot dogs bacon sausage'})",3
+0.017145,"frozenset({'fresh fruits', 'fresh vegetables', 'lunch meat', 'bread'})",4
+0.01714,"frozenset({'fresh fruits', 'water seltzer sparkling water', 'fresh vegetables', 'soy lactosefree'})",4
+0.017135,"frozenset({'water seltzer sparkling water', 'other creams cheeses'})",2
+0.01713,"frozenset({'packaged cheese', 'crackers', 'milk'})",3
+0.01712,"frozenset({'dry pasta', 'packaged cheese', 'packaged vegetables fruits'})",3
+0.017115,"frozenset({'spreads', 'fresh fruits', 'bread'})",3
+0.01711,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'frozen breakfast', 'fresh fruits'})",4
+0.017105,"frozenset({'fresh dips tapenades', 'refrigerated'})",2
+0.0171,"frozenset({'ice cream ice', 'fresh fruits', 'fresh vegetables', 'yogurt'})",4
+0.017095,"frozenset({'packaged produce', 'fresh vegetables', 'fresh fruits'})",3
+0.01709,"frozenset({'packaged cheese', 'fresh fruits', 'crackers', 'yogurt'})",4
+0.01709,"frozenset({'eggs', 'fresh fruits', 'packaged cheese', 'yogurt'})",4
+0.017085,"frozenset({'nuts seeds dried fruit', 'yogurt', 'fresh vegetables'})",3
+0.017085,"frozenset({'lunch meat', 'frozen produce'})",2
+0.017075,"frozenset({'ice cream ice', 'fresh vegetables', 'milk'})",3
+0.017055,"frozenset({'packaged cheese', 'baby food formula'})",2
+0.01705,"frozenset({'water seltzer sparkling water', 'packaged cheese', 'milk'})",3
+0.01704,"frozenset({'cereal', 'yogurt', 'milk'})",3
+0.017035,"frozenset({'chips pretzels', 'canned meals beans'})",2
+0.017025,"frozenset({'cereal', 'packaged cheese', 'packaged vegetables fruits'})",3
+0.01702,"frozenset({'fresh fruits', 'energy granola bars', 'soy lactosefree'})",3
+0.017015,"frozenset({'water seltzer sparkling water', 'spreads'})",2
+0.017015,"frozenset({'chips pretzels', 'frozen breakfast'})",2
+0.017015,"frozenset({'chips pretzels', 'fresh vegetables', 'refrigerated'})",3
+0.017015,"frozenset({'chips pretzels', 'fresh vegetables', 'frozen produce'})",3
+0.01701,"frozenset({'fresh herbs', 'packaged vegetables fruits', 'yogurt', 'fresh fruits'})",4
+0.01701,"frozenset({'fresh fruits', 'packaged cheese', 'frozen meals'})",3
+0.01701,"frozenset({'fresh fruits', 'ice cream ice', 'bread'})",3
+0.016995,"frozenset({'packaged vegetables fruits', 'crackers', 'milk', 'fresh fruits'})",4
+0.01698,"frozenset({'asian foods', 'packaged vegetables fruits', 'fresh vegetables'})",3
+0.01698,"frozenset({'soup broth bouillon', 'frozen produce'})",2
+0.016965,"frozenset({'fresh fruits', 'fresh vegetables', 'yogurt', 'canned meals beans'})",4
+0.01696,"frozenset({'bread', 'packaged cheese', 'lunch meat'})",3
+0.016955,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'frozen appetizers sides'})",3
+0.016955,"frozenset({'packaged vegetables fruits', 'refrigerated', 'milk', 'fresh fruits'})",4
+0.016945,"frozenset({'packaged vegetables fruits', 'crackers', 'yogurt', 'fresh vegetables'})",4
+0.01694,"frozenset({'packaged cheese', 'dry pasta', 'fresh vegetables', 'fresh fruits'})",4
+0.01694,"frozenset({'bread', 'pasta sauce'})",2
+0.01694,"frozenset({'bread', 'yogurt', 'milk', 'packaged vegetables fruits'})",4
+0.01694,"frozenset({'packaged cheese', 'tortillas flat bread', 'fresh vegetables'})",3
+0.016935,"frozenset({'fresh fruits', 'water seltzer sparkling water', 'yogurt', 'milk'})",4
+0.016915,"frozenset({'instant foods', 'packaged vegetables fruits', 'fresh vegetables'})",3
+0.016915,"frozenset({'cereal', 'refrigerated'})",2
+0.01691,frozenset({'soap'}),1
+0.016905,"frozenset({'cookies cakes', 'packaged vegetables fruits', 'fresh fruits'})",3
+0.016895,"frozenset({'ice cream ice', 'packaged vegetables fruits', 'packaged cheese'})",3
+0.016885,"frozenset({'canned jarred vegetables', 'fresh fruits', 'fresh vegetables', 'packaged cheese'})",4
+0.01687,"frozenset({'fresh fruits', 'water seltzer sparkling water', 'lunch meat'})",3
+0.016865,"frozenset({'packaged cheese', 'fresh fruits', 'fresh vegetables', 'canned meals beans'})",4
+0.01686,"frozenset({'packaged vegetables fruits', 'breakfast bakery', 'fresh vegetables', 'fresh fruits'})",4
+0.016855,"frozenset({'fresh fruits', 'yogurt', 'packaged cheese', 'lunch meat'})",4
+0.01685,"frozenset({'dry pasta', 'fresh vegetables', 'milk'})",3
+0.01684,"frozenset({'paper goods', 'packaged cheese'})",2
+0.016835,"frozenset({'fresh dips tapenades', 'lunch meat'})",2
+0.016825,"frozenset({'candy chocolate', 'water seltzer sparkling water'})",2
+0.01682,"frozenset({'hot dogs bacon sausage', 'fresh vegetables', 'milk'})",3
+0.01682,"frozenset({'fresh fruits', 'packaged cheese', 'baking ingredients'})",3
+0.01681,"frozenset({'soup broth bouillon', 'fresh fruits', 'fresh vegetables', 'yogurt'})",4
+0.016805,"frozenset({'fresh vegetables', 'packaged cheese', 'packaged vegetables fruits', 'yogurt', 'milk', 'fresh fruits'})",6
+0.016795,"frozenset({'soup broth bouillon', 'water seltzer sparkling water'})",2
+0.016785,"frozenset({'fresh fruits', 'water seltzer sparkling water', 'packaged cheese', 'yogurt'})",4
+0.016745,"frozenset({'water seltzer sparkling water', 'frozen meals'})",2
+0.016745,"frozenset({'condiments', 'packaged vegetables fruits', 'fresh vegetables', 'fresh fruits'})",4
+0.01674,"frozenset({'packaged vegetables fruits', 'soft drinks', 'fresh fruits'})",3
+0.01673,"frozenset({'soy lactosefree', 'chips pretzels', 'fresh fruits', 'packaged vegetables fruits'})",4
+0.01672,"frozenset({'frozen pizza', 'fresh fruits', 'fresh vegetables'})",3
+0.016715,"frozenset({'fresh fruits', 'tortillas flat bread', 'yogurt'})",3
+0.0167,"frozenset({'packaged cheese', 'fresh vegetables', 'packaged vegetables fruits', 'lunch meat', 'fresh fruits'})",5
+0.016695,"frozenset({'packaged cheese', 'fresh vegetables', 'packaged vegetables fruits', 'fresh fruits', 'frozen produce'})",5
+0.016675,"frozenset({'spices seasonings', 'fresh fruits', 'fresh vegetables', 'packaged vegetables fruits'})",4
+0.016675,"frozenset({'eggs', 'bread', 'milk'})",3
+0.016665,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'fresh fruits', 'frozen meals'})",4
+0.01665,"frozenset({'asian foods', 'packaged vegetables fruits', 'fresh fruits'})",3
+0.01664,"frozenset({'packaged vegetables fruits', 'crackers', 'bread'})",3
+0.016635,"frozenset({'spices seasonings', 'packaged cheese'})",2
+0.01662,"frozenset({'fresh fruits', 'other creams cheeses', 'milk', 'fresh vegetables'})",4
+0.016615,"frozenset({'packaged vegetables fruits', 'pickled goods olives'})",2
+0.016595,"frozenset({'bread', 'fresh vegetables', 'refrigerated'})",3
+0.01659,"frozenset({'soup broth bouillon', 'fresh vegetables', 'milk'})",3
+0.01658,"frozenset({'cream', 'eggs'})",2
+0.01657,"frozenset({'chips pretzels', 'fresh vegetables', 'lunch meat'})",3
+0.01657,"frozenset({'packaged cheese', 'bread', 'fresh vegetables', 'milk'})",4
+0.01657,"frozenset({'fresh fruits', 'energy granola bars', 'yogurt', 'packaged vegetables fruits'})",4
+0.016555,"frozenset({'soup broth bouillon', 'packaged vegetables fruits', 'packaged cheese'})",3
+0.016545,"frozenset({'bread', 'packaged cheese', 'fresh vegetables', 'yogurt', 'fresh fruits'})",5
+0.016525,"frozenset({'soy lactosefree', 'hot dogs bacon sausage'})",2
+0.016515,"frozenset({'fresh vegetables', 'meat counter'})",2
+0.01651,"frozenset({'canned jarred vegetables', 'fresh vegetables', 'milk'})",3
+0.01651,"frozenset({'cereal', 'yogurt', 'fresh fruits', 'packaged vegetables fruits'})",4
+0.016485,"frozenset({'ice cream ice', 'frozen produce'})",2
+0.01648,"frozenset({'fresh dips tapenades', 'packaged cheese', 'yogurt'})",3
+0.01648,"frozenset({'frozen pizza', 'packaged cheese'})",2
+0.01648,"frozenset({'packaged vegetables fruits', 'packaged cheese', 'pasta sauce'})",3
+0.01648,"frozenset({'eggs', 'bread', 'yogurt'})",3
+0.01647,"frozenset({'packaged vegetables fruits', 'refrigerated', 'soy lactosefree'})",3
+0.01647,"frozenset({'soy lactosefree', 'other creams cheeses'})",2
+0.01644,"frozenset({'fresh vegetables', 'yogurt', 'pasta sauce'})",3
+0.01644,"frozenset({'packaged vegetables fruits', 'other creams cheeses', 'milk'})",3
+0.01643,"frozenset({'fresh fruits', 'fresh dips tapenades', 'water seltzer sparkling water'})",3
+0.01641,"frozenset({'fresh fruits', 'specialty cheeses'})",2
+0.016405,"frozenset({'soup broth bouillon', 'packaged vegetables fruits', 'yogurt'})",3
+0.016405,"frozenset({'dry pasta', 'fresh vegetables', 'yogurt', 'fresh fruits'})",4
+0.01639,"frozenset({'chips pretzels', 'water seltzer sparkling water', 'fresh vegetables', 'fresh fruits'})",4
+0.01638,"frozenset({'bread', 'tortillas flat bread'})",2
+0.016375,"frozenset({'fresh fruits', 'energy granola bars', 'yogurt', 'fresh vegetables'})",4
+0.016355,"frozenset({'packaged cheese', 'packaged vegetables fruits', 'fresh dips tapenades', 'fresh vegetables'})",4
+0.016355,"frozenset({'bread', 'nuts seeds dried fruit'})",2
+0.01633,"frozenset({'chips pretzels', 'packaged cheese', 'milk', 'fresh fruits'})",4
+0.01633,"frozenset({'fresh fruits', 'fresh dips tapenades', 'fresh vegetables', 'milk'})",4
+0.016325,"frozenset({'chips pretzels', 'frozen appetizers sides'})",2
+0.016305,"frozenset({'coffee', 'milk'})",2
+0.016305,"frozenset({'fresh herbs', 'packaged vegetables fruits', 'packaged cheese', 'fresh fruits'})",4
+0.016305,"frozenset({'fresh fruits', 'water seltzer sparkling water', 'energy granola bars'})",3
+0.0163,"frozenset({'packaged vegetables fruits', 'nuts seeds dried fruit', 'yogurt'})",3
+0.016295,"frozenset({'canned jarred vegetables', 'soup broth bouillon'})",2
+0.01629,"frozenset({'packaged cheese', 'fresh fruits', 'fresh vegetables', 'hot dogs bacon sausage'})",4
+0.01628,"frozenset({'canned jarred vegetables', 'fresh fruits', 'fresh vegetables', 'yogurt'})",4
+0.016275,"frozenset({'salad dressing toppings', 'fresh vegetables'})",2
+0.016265,"frozenset({'packaged cheese', 'soup broth bouillon', 'fresh fruits', 'fresh vegetables'})",4
+0.016255,"frozenset({'fresh fruits', 'bread', 'hot dogs bacon sausage'})",3
+0.016245,"frozenset({'packaged cheese', 'energy granola bars', 'fresh vegetables'})",3
+0.016245,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'frozen produce', 'milk'})",4
+0.016235,"frozenset({'packaged vegetables fruits', 'packaged cheese', 'canned meals beans'})",3
+0.016225,"frozenset({'fresh fruits', 'yogurt', 'packaged cheese', 'frozen produce'})",4
+0.016205,"frozenset({'instant foods', 'fresh fruits', 'yogurt'})",3
+0.0162,"frozenset({'fresh fruits', 'spreads', 'soy lactosefree'})",3
+0.01619,"frozenset({'packaged vegetables fruits', 'yogurt', 'spreads'})",3
+0.01617,"frozenset({'fruit vegetable snacks', 'packaged cheese'})",2
+0.01617,"frozenset({'fresh fruits', 'salad dressing toppings'})",2
+0.01617,"frozenset({'fresh fruits', 'milk', 'canned meals beans'})",3
+0.016165,"frozenset({'packaged vegetables fruits', 'coffee', 'fresh fruits'})",3
+0.016155,"frozenset({'fresh fruits', 'bread', 'other creams cheeses'})",3
+0.016155,"frozenset({'fresh fruits', 'fresh vegetables', 'yogurt', 'hot dogs bacon sausage'})",4
+0.016135,"frozenset({'bread', 'fresh vegetables', 'yogurt', 'milk', 'fresh fruits'})",5
+0.016125,"frozenset({'eggs', 'cereal'})",2
+0.01612,"frozenset({'cream', 'packaged vegetables fruits', 'yogurt'})",3
+0.0161,"frozenset({'canned jarred vegetables', 'soy lactosefree'})",2
+0.016095,"frozenset({'packaged vegetables fruits', 'packaged cheese', 'other creams cheeses', 'fresh fruits'})",4
+0.016085,"frozenset({'fruit vegetable snacks', 'chips pretzels'})",2
+0.016075,"frozenset({'packaged cheese', 'chips pretzels', 'fresh vegetables', 'yogurt'})",4
+0.016075,"frozenset({'dry pasta', 'yogurt', 'packaged vegetables fruits'})",3
+0.016045,"frozenset({'bread', 'soft drinks'})",2
+0.016025,"frozenset({'fresh vegetables', 'packaged vegetables fruits', 'lunch meat', 'yogurt', 'fresh fruits'})",5
+0.01602,"frozenset({'candy chocolate', 'packaged vegetables fruits', 'fresh vegetables'})",3
+0.016015,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'baby food formula'})",3
+0.01601,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'frozen produce', 'soy lactosefree'})",4
+0.016005,"frozenset({'chips pretzels', 'refrigerated', 'packaged vegetables fruits'})",3
+0.015995,"frozenset({'tea', 'milk'})",2
+0.01599,"frozenset({'packaged cheese', 'chips pretzels', 'crackers'})",3
+0.015985,"frozenset({'eggs', 'soup broth bouillon'})",2
+0.015985,"frozenset({'canned jarred vegetables', 'fresh fruits', 'milk'})",3
+0.015955,"frozenset({'fresh fruits', 'fresh vegetables', 'pickled goods olives'})",3
+0.015955,"frozenset({'fresh fruits', 'frozen vegan vegetarian'})",2
+0.015945,"frozenset({'chips pretzels', 'bread', 'milk'})",3
+0.01594,"frozenset({'fresh fruits', 'refrigerated', 'frozen produce'})",3
+0.015935,"frozenset({'fresh fruits', 'dish detergents'})",2
+0.01593,"frozenset({'cream', 'packaged vegetables fruits', 'packaged cheese'})",3
+0.015925,"frozenset({'chips pretzels', 'fresh fruits', 'fresh dips tapenades', 'fresh vegetables'})",4
+0.015925,"frozenset({'packaged vegetables fruits', 'water seltzer sparkling water', 'soy lactosefree', 'fresh fruits'})",4
+0.015915,"frozenset({'water seltzer sparkling water', 'fresh vegetables', 'refrigerated'})",3
+0.01591,"frozenset({'fresh herbs', 'fresh fruits', 'fresh vegetables', 'soy lactosefree'})",4
+0.015905,"frozenset({'fresh herbs', 'bread', 'fresh vegetables'})",3
+0.015885,"frozenset({'frozen produce', 'canned meals beans'})",2
+0.015885,"frozenset({'chips pretzels', 'popcorn jerky'})",2
+0.015875,"frozenset({'eggs', 'packaged vegetables fruits', 'chips pretzels'})",3
+0.01587,"frozenset({'fresh fruits', 'fresh dips tapenades', 'crackers'})",3
+0.01587,"frozenset({'fresh herbs', 'packaged vegetables fruits', 'milk'})",3
+0.015865,"frozenset({'juice nectars', 'packaged vegetables fruits', 'yogurt'})",3
+0.015855,"frozenset({'packaged cheese', 'packaged vegetables fruits', 'energy granola bars'})",3
+0.015845,"frozenset({'eggs', 'bread', 'packaged cheese'})",3
+0.01584,"frozenset({'fresh fruits', 'water seltzer sparkling water', 'fresh vegetables', 'bread'})",4
+0.015835,"frozenset({'fresh herbs', 'chips pretzels'})",2
+0.015815,"frozenset({'packaged cheese', 'nuts seeds dried fruit', 'fresh vegetables'})",3
+0.01581,"frozenset({'packaged cheese', 'baking ingredients', 'fresh vegetables'})",3
+0.015805,"frozenset({'packaged vegetables fruits', 'bread', 'frozen produce'})",3
+0.015795,"frozenset({'canned jarred vegetables', 'bread'})",2
+0.01579,"frozenset({'fresh dips tapenades', 'fresh vegetables', 'soy lactosefree'})",3
+0.015785,"frozenset({'fresh fruits', 'milk', 'baby food formula'})",3
+0.015785,"frozenset({'canned jarred vegetables', 'packaged vegetables fruits', 'packaged cheese'})",3
+0.015785,"frozenset({'popcorn jerky', 'yogurt'})",2
+0.01578,"frozenset({'fresh fruits', 'milk', 'baking ingredients'})",3
+0.015765,"frozenset({'bread', 'fresh dips tapenades', 'fresh vegetables'})",3
+0.015765,"frozenset({'chips pretzels', 'pasta sauce'})",2
+0.01576,"frozenset({'paper goods', 'packaged vegetables fruits', 'fresh fruits'})",3
+0.01576,"frozenset({'packaged vegetables fruits', 'yogurt', 'canned meals beans'})",3
+0.015745,"frozenset({'packaged cheese', 'juice nectars', 'fresh vegetables'})",3
+0.01573,"frozenset({'eggs', 'fresh fruits', 'crackers'})",3
+0.01573,"frozenset({'candy chocolate', 'fresh fruits', 'yogurt'})",3
+0.01573,"frozenset({'yogurt', 'granola'})",2
+0.015725,"frozenset({'fresh herbs', 'fresh vegetables', 'canned jarred vegetables'})",3
+0.015715,"frozenset({'fresh vegetables', 'packaged vegetables fruits', 'fresh dips tapenades', 'yogurt', 'fresh fruits'})",5
+0.0157,"frozenset({'fresh herbs', 'fresh vegetables', 'frozen produce'})",3
+0.015695,"frozenset({'chips pretzels', 'lunch meat', 'packaged vegetables fruits'})",3
+0.01569,"frozenset({'soy lactosefree', 'fresh fruits', 'yogurt', 'milk'})",4
+0.01568,"frozenset({'chips pretzels', 'butter'})",2
+0.01568,"frozenset({'packaged cheese', 'coffee'})",2
+0.01565,"frozenset({'fresh vegetables', 'fresh herbs', 'packaged vegetables fruits', 'yogurt', 'fresh fruits'})",5
+0.01565,"frozenset({'juice nectars', 'chips pretzels', 'fresh fruits'})",3
+0.01565,"frozenset({'fresh fruits', 'nuts seeds dried fruit', 'soy lactosefree'})",3
+0.015635,"frozenset({'condiments', 'milk'})",2
+0.015635,"frozenset({'packaged vegetables fruits', 'preserved dips spreads'})",2
+0.01563,"frozenset({'bread', 'yogurt', 'soy lactosefree'})",3
+0.015625,"frozenset({'fresh fruits', 'ice cream ice', 'soy lactosefree'})",3
+0.015615,"frozenset({'ice cream ice', 'lunch meat'})",2
+0.015605,"frozenset({'eggs', 'fresh fruits', 'packaged cheese', 'milk'})",4
+0.015605,"frozenset({'fresh fruits', 'milk', 'pasta sauce'})",3
+0.0156,"frozenset({'chips pretzels', 'water seltzer sparkling water', 'yogurt'})",3
+0.015585,"frozenset({'packaged vegetables fruits', 'lunch meat', 'bread', 'fresh fruits'})",4
+0.015585,"frozenset({'cereal', 'fresh vegetables', 'milk', 'fresh fruits'})",4
+0.015585,"frozenset({'bread', 'packaged cheese', 'packaged vegetables fruits', 'yogurt', 'fresh fruits'})",5
+0.01558,"frozenset({'fresh fruits', 'meat counter'})",2
+0.015575,"frozenset({'chips pretzels', 'water seltzer sparkling water', 'fresh fruits', 'packaged vegetables fruits'})",4
+0.015575,"frozenset({'chips pretzels', 'packaged cheese', 'yogurt', 'packaged vegetables fruits'})",4
+0.01556,"frozenset({'fresh fruits', 'crackers', 'lunch meat'})",3
+0.015555,"frozenset({'specialty cheeses', 'fresh vegetables'})",2
+0.01555,"frozenset({'eggs', 'fresh herbs', 'fresh vegetables'})",3
+0.015515,"frozenset({'instant foods', 'fresh fruits', 'packaged cheese'})",3
+0.01551,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'bread', 'soy lactosefree'})",4
+0.01551,"frozenset({'fresh fruits', 'fresh vegetables', 'bread', 'frozen produce'})",4
+0.01551,"frozenset({'soy lactosefree', 'oils vinegars'})",2
+0.0155,"frozenset({'fresh fruits', 'yogurt', 'milk', 'frozen produce'})",4
+0.015495,"frozenset({'packaged cheese', 'yogurt', 'other creams cheeses'})",3
+0.01549,"frozenset({'hot cereal pancake mixes', 'packaged vegetables fruits', 'fresh vegetables'})",3
+0.01549,"frozenset({'hot cereal pancake mixes', 'milk'})",2
+0.01547,"frozenset({'packaged cheese', 'fresh vegetables', 'packaged vegetables fruits', 'crackers', 'fresh fruits'})",5
+0.01547,"frozenset({'packaged cheese', 'ice cream ice', 'fresh fruits', 'fresh vegetables'})",4
+0.015465,"frozenset({'instant foods', 'chips pretzels'})",2
+0.015465,"frozenset({'packaged cheese', 'fresh fruits', 'fresh vegetables', 'pasta sauce'})",4
+0.01546,"frozenset({'packaged cheese', 'fresh vegetables', 'spreads'})",3
+0.01545,"frozenset({'fresh vegetables', 'latino foods'})",2
+0.01545,"frozenset({'baking ingredients', 'fresh vegetables', 'yogurt'})",3
+0.01543,"frozenset({'fresh fruits', 'refrigerated', 'yogurt', 'milk'})",4
+0.015425,"frozenset({'canned jarred vegetables', 'frozen produce'})",2
+0.015405,"frozenset({'packaged cheese', 'cereal', 'fresh vegetables', 'fresh fruits'})",4
+0.015395,"frozenset({'eggs', 'packaged vegetables fruits', 'fresh vegetables', 'bread'})",4
+0.01539,"frozenset({'fresh fruits', 'popcorn jerky', 'fresh vegetables'})",3
+0.015385,"frozenset({'cereal', 'packaged cheese', 'yogurt'})",3
+0.01536,"frozenset({'bread', 'energy granola bars', 'fresh fruits'})",3
+0.015355,"frozenset({'fresh vegetables', 'refrigerated', 'packaged vegetables fruits', 'yogurt', 'fresh fruits'})",5
+0.015345,"frozenset({'bread', 'packaged cheese', 'milk', 'packaged vegetables fruits'})",4
+0.01534,"frozenset({'packaged cheese', 'packaged vegetables fruits', 'fresh vegetables', 'other creams cheeses'})",4
+0.01533,"frozenset({'frozen pizza', 'yogurt'})",2
+0.01533,"frozenset({'fresh herbs', 'soup broth bouillon'})",2
+0.01533,"frozenset({'packaged vegetables fruits', 'yogurt', 'other creams cheeses', 'fresh fruits'})",4
+0.015325,"frozenset({'cereal', 'frozen produce'})",2
+0.015325,"frozenset({'fresh vegetables', 'packaged vegetables fruits', 'crackers', 'yogurt', 'fresh fruits'})",5
+0.015315,"frozenset({'fresh vegetables', 'yogurt', 'frozen breakfast'})",3
+0.015305,"frozenset({'fruit vegetable snacks', 'milk'})",2
+0.01528,"frozenset({'packaged vegetables fruits', 'ice cream ice', 'yogurt', 'fresh fruits'})",4
+0.01528,"frozenset({'eggs', 'packaged vegetables fruits', 'water seltzer sparkling water'})",3
+0.01527,"frozenset({'fresh vegetables', 'milk', 'canned meals beans'})",3
+0.01526,"frozenset({'water seltzer sparkling water', 'fresh vegetables', 'frozen produce'})",3
+0.01525,"frozenset({'ice cream ice', 'soft drinks'})",2
+0.015245,"frozenset({'dry pasta', 'soy lactosefree'})",2
+0.015245,"frozenset({'packaged vegetables fruits', 'salad dressing toppings'})",2
+0.015245,"frozenset({'packaged cheese', 'fresh vegetables', 'packaged vegetables fruits', 'fresh fruits', 'water seltzer sparkling water'})",5
+0.01523,"frozenset({'fresh vegetables', 'chips pretzels', 'packaged vegetables fruits', 'milk', 'fresh fruits'})",5
+0.015225,"frozenset({'cream', 'packaged vegetables fruits', 'milk'})",3
+0.015225,"frozenset({'eggs', 'packaged vegetables fruits', 'soy lactosefree', 'fresh fruits'})",4
+0.01522,"frozenset({'paper goods', 'milk'})",2
+0.015215,"frozenset({'fresh fruits', 'water seltzer sparkling water', 'ice cream ice'})",3
+0.01521,"frozenset({'packaged vegetables fruits', 'fresh dips tapenades', 'milk', 'fresh fruits'})",4
+0.015195,"frozenset({'packaged cheese', 'frozen produce', 'milk'})",3
+0.015185,"frozenset({'packaged vegetables fruits', 'water seltzer sparkling water', 'refrigerated'})",3
+0.015185,"frozenset({'chips pretzels', 'hot dogs bacon sausage', 'fresh fruits'})",3
+0.015185,"frozenset({'fresh vegetables', 'chips pretzels', 'crackers', 'fresh fruits'})",4
+0.01517,"frozenset({'refrigerated', 'hot dogs bacon sausage'})",2
+0.015155,"frozenset({'bread', 'baking ingredients'})",2
+0.01515,"frozenset({'fruit vegetable snacks', 'fresh fruits', 'yogurt'})",3
+0.015145,"frozenset({'bread', 'packaged vegetables fruits', 'yogurt', 'milk', 'fresh fruits'})",5
+0.015135,"frozenset({'eggs', 'baking ingredients'})",2
+0.015135,"frozenset({'fresh fruits', 'crackers', 'bread', 'fresh vegetables'})",4
+0.015135,"frozenset({'fresh fruits', 'nuts seeds dried fruit', 'yogurt', 'fresh vegetables'})",4
+0.01513,"frozenset({'chips pretzels', 'packaged vegetables fruits', 'fresh dips tapenades', 'fresh fruits'})",4
+0.015125,"frozenset({'fresh vegetables', 'doughs gelatins bake mixes'})",2
+0.015125,"frozenset({'fresh fruits', 'yogurt', 'oils vinegars'})",3
+0.01512,"frozenset({'crackers', 'other creams cheeses'})",2
+0.015115,"frozenset({'fresh fruits', 'crackers', 'frozen produce'})",3
+0.015115,"frozenset({'packaged cheese', 'other creams cheeses', 'milk'})",3
+0.01511,"frozenset({'packaged vegetables fruits', 'fresh dips tapenades', 'soy lactosefree'})",3
+0.015105,"frozenset({'eggs', 'fresh fruits', 'fresh vegetables', 'chips pretzels'})",4
+0.01509,"frozenset({'soy lactosefree', 'packaged vegetables fruits', 'fresh vegetables', 'milk'})",4
+0.01508,"frozenset({'fresh fruits', 'yogurt', 'lunch meat', 'milk'})",4
+0.015075,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'lunch meat', 'milk'})",4
+0.015065,"frozenset({'packaged cheese', 'packaged vegetables fruits', 'fresh vegetables', 'refrigerated'})",4
+0.01506,"frozenset({'packaged vegetables fruits', 'popcorn jerky', 'fresh fruits'})",3
+0.01504,"frozenset({'packaged vegetables fruits', 'water seltzer sparkling water', 'fresh vegetables', 'milk'})",4
+0.015035,"frozenset({'fresh dips tapenades', 'yogurt', 'milk'})",3
+0.015025,"frozenset({'packaged cheese', 'tea'})",2
+0.015025,"frozenset({'crackers', 'spreads'})",2
+0.015025,"frozenset({'chips pretzels', 'frozen produce', 'packaged vegetables fruits'})",3
+0.01502,"frozenset({'packaged vegetables fruits', 'refrigerated', 'bread'})",3
+0.015015,"frozenset({'fresh vegetables', 'packaged cheese', 'fresh herbs', 'packaged vegetables fruits', 'fresh fruits'})",5
+0.01501,"frozenset({'breakfast bakery', 'other creams cheeses'})",2
+0.015005,"frozenset({'eggs', 'fresh vegetables', 'lunch meat'})",3
+0.015005,"frozenset({'packaged vegetables fruits', 'fresh vegetables', 'poultry counter', 'fresh fruits'})",4
+0.015,"frozenset({'fresh fruits', 'yogurt', 'fresh vegetables', 'spreads'})",4
