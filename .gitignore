@@ -48,9 +48,7 @@ data/processed/*
 !data/processed/*.parquet
 
 # Trained model artifacts (can be large)
-# models/*
-# !models/.gitkeep
-# !models/README.md
+models/*.joblib
 
 # Operating System Files
 .DS_Store
