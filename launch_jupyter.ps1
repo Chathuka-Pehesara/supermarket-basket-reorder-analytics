@@ -15,6 +15,11 @@ if (-not (Test-Path ".venv\Scripts\Activate.ps1")) {
 Write-Host "Activating virtual environment..." -ForegroundColor Cyan
 & ".\.venv\Scripts\Activate.ps1"
 
+if (-not (Test-Path ".\.venv\Scripts\jupyter.exe")) {
+    Write-Host "Jupyter not found. Installing requirements from requirements.txt..." -ForegroundColor Yellow
+    & ".\.venv\Scripts\python.exe" -m pip install -r requirements.txt
+}
+
 # 2. Locate Chrome executable
 $chromePath = "C:\Program Files\Google\Chrome\Application\chrome.exe"
 if (-not (Test-Path $chromePath)) {
@@ -34,4 +39,4 @@ if (Test-Path $chromePath) {
 
 # 5. Start the Jupyter server
 Write-Host "Starting Jupyter Server..." -ForegroundColor Cyan
-jupyter lab --no-browser
+& ".\.venv\Scripts\jupyter.exe" lab --no-browser
