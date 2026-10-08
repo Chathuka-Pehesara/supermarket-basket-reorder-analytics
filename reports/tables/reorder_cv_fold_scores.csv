@@ -1,9 +1,9 @@
 ,Model,Fold,ROC_AUC
-0,Logistic Regression,1,0.8587012094074264
-1,Logistic Regression,2,0.8596680305754361
-2,Logistic Regression,3,0.8588203515716447
-3,Logistic Regression,4,0.8595593385098215
-4,Logistic Regression,5,0.860111319259522
+0,Logistic Regression,1,0.8587025444795487
+1,Logistic Regression,2,0.8596678044148126
+2,Logistic Regression,3,0.8588196825891214
+3,Logistic Regression,4,0.8595572520713411
+4,Logistic Regression,5,0.8601112031901241
 5,Decision Tree,1,0.8621715478629252
 6,Decision Tree,2,0.8623152600141271
 7,Decision Tree,3,0.8621457857865225
