@@ -1,0 +1,5 @@
+,Model,False Negatives (Stockouts),False Positives (Excess Holding),Financial Risk Index (Rs.)
+0,HistGradientBoosting,2900,4287,563610.0
+1,Random Forest,3925,3386,690330.0
+2,Logistic Regression,4068,3699,721170.0
+3,Decision Tree,4275,3544,747570.0
