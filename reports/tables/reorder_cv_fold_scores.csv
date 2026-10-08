@@ -1,4 +1,5 @@
 ,Model,Fold,ROC_AUC
+<<<<<<< HEAD
 0,Logistic Regression,1,0.8592407759579669
 1,Logistic Regression,2,0.8534263576969936
 2,Logistic Regression,3,0.8592730174288581
@@ -19,3 +20,25 @@
 17,HistGradientBoosting,3,0.8693431963191286
 18,HistGradientBoosting,4,0.8709529130347962
 19,HistGradientBoosting,5,0.8677293242717117
+=======
+0,Logistic Regression,1,0.8587012094074264
+1,Logistic Regression,2,0.8596680305754361
+2,Logistic Regression,3,0.8588203515716447
+3,Logistic Regression,4,0.8595593385098215
+4,Logistic Regression,5,0.860111319259522
+5,Decision Tree,1,0.8621715478629252
+6,Decision Tree,2,0.8623152600141271
+7,Decision Tree,3,0.8621457857865225
+8,Decision Tree,4,0.8623120714497423
+9,Decision Tree,5,0.8634579347144089
+10,Random Forest,1,0.8713834632643516
+11,Random Forest,2,0.8716828452406703
+12,Random Forest,3,0.8714593849378814
+13,Random Forest,4,0.8717756295714638
+14,Random Forest,5,0.8729813295204798
+15,HistGradientBoosting,1,0.8719670051383355
+16,HistGradientBoosting,2,0.8722212601330287
+17,HistGradientBoosting,3,0.8722199989856548
+18,HistGradientBoosting,4,0.8722895882507445
+19,HistGradientBoosting,5,0.873347651547656
+>>>>>>> 4d6f4be9ffa31f35cea8e88066573ec671d00783
