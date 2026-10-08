@@ -49,6 +49,8 @@ data/processed/*
 
 # Trained model artifacts (can be large)
 models/*.joblib
+!models/.gitkeep
+!models/README.md
 
 # Operating System Files
 .DS_Store
