@@ -45,6 +45,7 @@ data/raw/*
 data/processed/*
 !data/processed/.gitkeep
 !data/processed/README.md
+!data/processed/*.parquet
 
 # Trained model artifacts (can be large)
 models/*
