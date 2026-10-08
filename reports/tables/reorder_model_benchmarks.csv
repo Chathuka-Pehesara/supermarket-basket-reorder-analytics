@@ -1,0 +1,5 @@
+,Model,Accuracy,Precision,Recall,F1-Score (Macro),F1-Score (Weighted),ROC-AUC,PR-AUC,Inference_Latency_ms
+0,Random Forest,0.7563,0.8025,0.778,0.7498,0.757,0.8296,0.8531,0.0099
+1,HistGradientBoosting,0.7604,0.7752,0.836,0.7477,0.7578,0.8268,0.8494,0.0052
+2,Logistic Regression,0.7411,0.7863,0.7699,0.7337,0.7416,0.8161,0.8491,0.0077
+3,Decision Tree,0.7394,0.7909,0.7582,0.733,0.7404,0.8095,0.8319,0.0005
