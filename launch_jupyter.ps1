@@ -1,5 +1,5 @@
 # ===================================================
-# Launch Jupyter Notebook directly in Google Chrome
+# Launch JupyterLab / Notebook directly in Google Chrome
 # ===================================================
 
 $ErrorActionPreference = "Stop"
@@ -15,18 +15,23 @@ if (-not (Test-Path ".venv\Scripts\Activate.ps1")) {
 Write-Host "Activating virtual environment..." -ForegroundColor Cyan
 & ".\.venv\Scripts\Activate.ps1"
 
-# 2. Check if jupyter is installed in venv
-$jupyterInstalled = (& ".\.venv\Scripts\pip.exe" list | Select-String "jupyter")
-if (-not $jupyterInstalled) {
-    Write-Host "Installing jupyter in .venv..." -ForegroundColor Yellow
-    & ".\.venv\Scripts\pip.exe" install jupyter
-}
-
-# 3. Locate Chrome executable
+# 2. Locate Chrome executable
 $chromePath = "C:\Program Files\Google\Chrome\Application\chrome.exe"
 if (-not (Test-Path $chromePath)) {
     $chromePath = "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
 }
 
-Write-Host "Launching Jupyter Notebook in Google Chrome..." -ForegroundColor Green
-jupyter notebook --browser="$chromePath %s"
+# 3. Set BROWSER environment variable so Python's webbrowser module picks up Chrome
+$env:BROWSER = $chromePath
+
+# 4. Launch Chrome directly to the local server URL
+Write-Host "Opening Google Chrome..." -ForegroundColor Green
+if (Test-Path $chromePath) {
+    Start-Process $chromePath "http://localhost:8888/tree"
+} else {
+    Start-Process "http://localhost:8888/tree"
+}
+
+# 5. Start the Jupyter server
+Write-Host "Starting Jupyter Server..." -ForegroundColor Cyan
+jupyter lab --no-browser
