@@ -25,6 +25,8 @@ flowchart LR
 | **`02_market_basket_analysis.ipynb`** | **Obesekara S.O.K.D** (`IT24103866`) | `data/processed/cleaned_transactions.parquet` | `reports/tables/top_association_rules.csv` | Basket transformation, FP-Growth baseline, Apriori/ECLAT benchmarks, Support/Confidence/Lift/Conviction pruning. |
 | **`03_reorder_prediction.ipynb`** | **Peiris W.S.V** (`IT24103792`) | `data/processed/cleaned_transactions.parquet` | `models/reorder_classifier.joblib`, evaluation plots | Product-level feature engineering, Logistic Regression baseline, Decision Tree & Random Forest models, ROC-AUC. |
 | **`04_stakeholder_validation.ipynb`** | **Weerasooriya W.H.M.S.P** (`IT24104192`) | Rules & models from 02 & 03, SL POS dataset | `reports/business_rules/store_layout_guide.md` | Sri Lankan FMCG cross-validation, stakeholder qualitative alignment, shelf layout & restocking action plan. |
+| **`05_final_complete_workflow.ipynb`** | **Group 2026-AI-15 (All Members)** | Raw data, processed parquet, all 4 pipelines | Complete unified project execution | **Master Workflow notebook concatenating all 120 cells from Notebooks 01, 02, 03, and 04** into one sequential document. |
+
 
 ---
 
