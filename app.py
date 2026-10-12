@@ -172,9 +172,9 @@ def load_association_rules():
     rename_dict = {}
     for col in df.columns:
         c_clean = str(col).strip().lower().replace(" ", "_")
-        if c_clean in ["antecedent", "antecedents", "anchor", "anchor_product", "item_a", "lhs"]:
+        if c_clean in ["antecedent", "antecedents", "antecedents_str", "anchor", "anchor_product", "item_a", "lhs"]:
             rename_dict[col] = "antecedents"
-        elif c_clean in ["consequent", "consequents", "companion", "companion_product", "item_b", "rhs"]:
+        elif c_clean in ["consequent", "consequents", "consequents_str", "companion", "companion_product", "item_b", "rhs"]:
             rename_dict[col] = "consequents"
         elif c_clean in ["lift", "lift_ratio", "lift_multiplier"]:
             rename_dict[col] = "lift"
@@ -198,7 +198,7 @@ def load_association_rules():
         s = str(val)
         for junk in ["frozenset({", "frozenset(", "})", ")", "{", "}", "'", '"']:
             s = s.replace(junk, "")
-        return s.strip()
+        return s.strip().title()
 
     df["antecedents"] = df["antecedents"].apply(clean_itemset)
     df["consequents"] = df["consequents"].apply(clean_itemset)
@@ -313,15 +313,19 @@ with col_left:
     """, unsafe_allow_html=True)
     
     raw_list = sorted(rules_df["antecedents"].dropna().unique().tolist())
-    antecedents_list = [item for item in raw_list if item.strip()]
+    clean_singles = [item for item in raw_list if "," not in item and item.strip()]
+    combos = [item for item in raw_list if "," in item and item.strip()]
+    antecedents_list = clean_singles if clean_singles else raw_list
     if not antecedents_list:
         antecedents_list = ["Fresh Vegetables", "Milk & Dairy", "Dry Pasta & Rice", "Bakery & Bread"]
 
+    default_idx = antecedents_list.index("Dry Pasta") if "Dry Pasta" in antecedents_list else 0
+
     sub_c1, sub_c2 = st.columns([1.3, 1])
     with sub_c1:
-        anchor_item = st.selectbox("Anchor Shelf Product:", antecedents_list, index=0)
+        anchor_item = st.selectbox("Anchor Shelf Product:", antecedents_list, index=default_idx)
     with sub_c2:
-        min_lift = st.slider("Minimum Lift Ratio:", 1.0, 3.5, 1.25, 0.05)
+        min_lift = st.slider("Minimum Lift Ratio:", 1.0, 4.5, 1.25, 0.05)
     
     filtered_rules = rules_df[
         (rules_df["antecedents"].str.contains(anchor_item, case=False, na=False)) &
@@ -432,7 +436,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 if X_test is not None and y_test is not None:
-    t_c1, t_c2 = st.columns([1, 2.5])
+    t_c1, t_c2 = st.columns([1.3, 2.2])
     
     with t_c1:
         idx = st.number_input(
@@ -450,9 +454,9 @@ if X_test is not None and y_test is not None:
         actual_val = int(y_test.iloc[idx].values[0])
         
         vm1, vm2, vm3 = st.columns(3)
-        vm1.metric("Test Output", f"{pred_prob*100:.1f}%")
-        vm2.metric("Prediction", f"{pred_label} ({'Reorder' if pred_label == 1 else 'Acquire'})")
-        vm3.metric("Ground Truth", f"{actual_val} ({'Reorder' if actual_val == 1 else 'Acquire'})")
+        vm1.metric("Score", f"{pred_prob*100:.1f}%")
+        vm2.metric("Pred", f"{'1 (Reorder)' if pred_label == 1 else '0 (New)'}")
+        vm3.metric("Actual", f"{'1 (Reorder)' if actual_val == 1 else '0 (New)'}")
         
         if pred_label == actual_val:
             st.success("✅ Prediction accurately aligned with ground truth.")
