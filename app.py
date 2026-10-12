@@ -1,3 +1,29 @@
+import ast
+
+# Python 3.14 compatibility patch: ast.Num was removed in Python 3.14
+if not hasattr(ast, "Num"):
+    class NumNode(ast.Constant):
+        @property
+        def n(self):
+            return self.value
+    ast.Num = NumNode
+
+try:
+    import joblib._utils
+    def _patched_eval(node):
+        if isinstance(node, ast.Constant) and isinstance(node.value, (int, float)):
+            return node.value
+        elif isinstance(node, ast.BinOp):
+            return joblib._utils.operators[type(node.op)](_patched_eval(node.left), _patched_eval(node.right))
+        elif isinstance(node, ast.UnaryOp):
+            return joblib._utils.operators[type(node.op)](_patched_eval(node.operand))
+        elif hasattr(ast, "Num") and isinstance(node, ast.Num):
+            return getattr(node, "n", getattr(node, "value", None))
+        raise TypeError(node)
+    joblib._utils.eval_ = _patched_eval
+except Exception:
+    pass
+
 import streamlit as st
 import pandas as pd
 import numpy as np
